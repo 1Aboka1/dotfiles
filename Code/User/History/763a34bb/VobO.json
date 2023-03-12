@@ -1,0 +1,58 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "[html]": {
+        "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    "files.associations": {
+        "*.html": "html",
+        "*.jsx": "javascriptreact",
+        "**/.i3/config": "i3",
+        "**/i3/config": "i3",
+    },
+    "arduino.path": "C:\\Program Files (x86)\\Arduino",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.linkedEditing": true,
+    "explorer.confirmDragAndDrop": false,
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/CVS": false,
+        "**/Thumbs.db": false
+    },
+    "tabnine.experimentalAutoImports": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "terminal.integrated.defaultLocation": "editor",
+    "npm.keybindingsChangedWarningShown": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.experimental.classRegex": [
+    
+    ],
+    "tailwindCSS.includeLanguages": {
+        "html": "html",
+        "javascript": "javascript",
+        "css": "css",
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "glassit.alpha": 255,
+    "window.menuBarVisibility": "toggle",
+    "editor.fontSize": 17,
+    "editor.fontFamily": "'JetBrainsMonoMedium', 'Medium'",
+    "editor.fontWeight": "normal",
+    "workbench.colorTheme": "Dracula",
+    "workbench.colorCustomizations": {
+        "editor.background": "#1d1d1d49"9"7"0"0"0"
+    },
+}

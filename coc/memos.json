@@ -1,0 +1,4425 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637515
+    },
+    "/usr/sbin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637444
+    },
+    "/sbin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637427
+    },
+    "/usr/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637492
+    },
+    "/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637458
+    },
+    "/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637466
+    },
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637462
+    },
+    "/sbin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637422
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637518
+    },
+    "/usr/sbin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637440
+    },
+    "/sbin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637530
+    },
+    "/usr/sbin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730"
+      },
+      "expiry": 1678459637448
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765"
+      },
+      "expiry": 1671972443262
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765"
+      },
+      "expiry": 1671972443266
+    },
+    "/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765"
+      },
+      "expiry": 1671972443220
+    },
+    "/usr/sbin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765"
+      },
+      "expiry": 1671972443190
+    },
+    "/sbin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765"
+      },
+      "expiry": 1671972443165
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      }
+    ],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.9-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.9-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+      "type": "Unknown",
+      "displayName": "Python 3.10.9 64-bit"
+    },
+    "/usr/sbin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765"
+      },
+      "expiry": 1671972443197
+    },
+    "/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765"
+      },
+      "expiry": 1671972443217
+    },
+    "/sbin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765"
+      },
+      "expiry": 1671972443169
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.9-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.9-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.9-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.9-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+          "type": "Unknown",
+          "displayName": "Python 3.10.9 64-bit"
+        }
+      },
+      "expiry": 1678459637842
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.9 64-bit",
+        "hash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730-85f71d6e56abc1afc02467776f4ef99c"
+      },
+      "expiry": 1678459637699
+    },
+    "/usr/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765-e57ce4698809cff2cfa0a386e9e62ad3"
+      },
+      "expiry": 1671972443760
+    },
+    "/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.9 64-bit",
+        "hash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730-38dd2db2cf004cb3bc1c5b92e04e4cf7"
+      },
+      "expiry": 1678459637714
+    },
+    "/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765-ec0f3eca8f2cafd09f36f0335a79b8fa"
+      },
+      "expiry": 1671972443785
+    },
+    "/usr/sbin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.9 64-bit",
+        "hash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730-0ca57b9aba191c24173e7992cb5d0b90"
+      },
+      "expiry": 1678459637726
+    },
+    "/usr/sbin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765-abf0f900c60ed178d939e6dd82535877"
+      },
+      "expiry": 1671972443805
+    },
+    "/sbin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.9 64-bit",
+        "hash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730-f9588b65f34f7f1819bf41f64d3d0a43"
+      },
+      "expiry": 1678459638339
+    },
+    "/sbin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765-d5eef176ca952e6125cbb174f32b8e53"
+      },
+      "expiry": 1671972443826
+    },
+    "/usr/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1671972444009
+    },
+    "/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.9-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.9-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+          "type": "Unknown",
+          "displayName": "Python 3.10.9 64-bit"
+        }
+      },
+      "expiry": 1678459637877
+    },
+    "/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1671972444045
+    },
+    "/usr/sbin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/sbin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.9-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.9-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+          "type": "Unknown",
+          "displayName": "Python 3.10.9 64-bit"
+        }
+      },
+      "expiry": 1678459637911
+    },
+    "/usr/sbin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/sbin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1671972444083
+    },
+    "/sbin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+        "info": {
+          "architecture": 3,
+          "path": "/sbin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.9-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.9-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+          "type": "Unknown",
+          "displayName": "Python 3.10.9 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1678459638009
+    },
+    "/sbin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765",
+        "info": {
+          "architecture": 3,
+          "path": "/sbin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "27de6fbe326b2f98184d9d28c46099bbbc0eefc47fbcd93abaf17d3b24dd67e4f57794abd2c995ee0f2081743756f711aa3867e32a638a148eeaccb91a4f4765",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1671972444126
+    },
+    "ProposeLSBanner": false,
+    "/usr/sbin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad"
+      },
+      "expiry": 1678459637435
+    },
+    "/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad"
+      },
+      "expiry": 1678459637452
+    },
+    "/usr/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad"
+      },
+      "expiry": 1678459637488
+    },
+    "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961"
+      },
+      "expiry": 1667054002682
+    },
+    "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961"
+      },
+      "expiry": 1667054002677
+    },
+    "/home/aboka/Projects/pyqt5_learning/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961"
+      },
+      "expiry": 1667054002676
+    },
+    "/sbin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad"
+      },
+      "expiry": 1678459637526
+    },
+    "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961"
+      },
+      "expiry": 1667054002753
+    },
+    "/home/aboka/Projects/pyqt5_learning/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.15 64-bit ('.venv': venv)",
+        "hash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961-80e5580d21070a0d7c3eabec42858936"
+      },
+      "expiry": 1667054002742
+    },
+    "/usr/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.16 64-bit",
+        "hash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad-37470993e1ad9d99dea1bb5055908db0"
+      },
+      "expiry": 1678459637707
+    },
+    "/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.16 64-bit",
+        "hash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad-f15ef61a3372f3d7e0a669cf7d55fbac"
+      },
+      "expiry": 1678459637720
+    },
+    "/usr/sbin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.16 64-bit",
+        "hash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad-3f0fac181691f1b86a2c25b1c5b67eef"
+      },
+      "expiry": 1678459637733
+    },
+    "/sbin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.16 64-bit",
+        "hash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad-520f1315fbeacedf5e5101151ccaf837"
+      },
+      "expiry": 1678459637746
+    },
+    "/home/aboka/Projects/pyqt5_learning/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+        "info": {
+          "architecture": 3,
+          "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.15-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 15,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.15-final"
+          },
+          "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+          "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+          "envName": ".venv",
+          "type": "Venv",
+          "displayName": "Python 3.9.15 64-bit ('.venv': venv)"
+        }
+      },
+      "expiry": 1667054002772
+    },
+    "/usr/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.16-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.16-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+          "type": "Unknown",
+          "displayName": "Python 3.9.16 64-bit"
+        }
+      },
+      "expiry": 1678459637860
+    },
+    "/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.16-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.16-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+          "type": "Unknown",
+          "displayName": "Python 3.9.16 64-bit"
+        }
+      },
+      "expiry": 1678459637894
+    },
+    "/usr/sbin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/sbin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.16-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.16-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+          "type": "Unknown",
+          "displayName": "Python 3.9.16 64-bit"
+        }
+      },
+      "expiry": 1678459637929
+    },
+    "/sbin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+        "info": {
+          "architecture": 3,
+          "path": "/sbin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.16-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.16-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "4dc41253b8717da498493cde211d4b25f9266d233741a6d85fc03dcf17604be93faaef9f438f980d7d309a7594d791f0eb7ef75914c55642285681e7c57c63ad",
+          "type": "Unknown",
+          "displayName": "Python 3.9.16 64-bit"
+        }
+      },
+      "expiry": 1678459637962
+    },
+    "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.15 64-bit ('.venv': venv)",
+        "hash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961-69f3dd493b355d040be3ebdfefb7f4f8"
+      },
+      "expiry": 1667054002804
+    },
+    "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1"
+      },
+      "expiry": 1666970394316
+    },
+    "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1"
+      },
+      "expiry": 1666970394293
+    },
+    "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1"
+      },
+      "expiry": 1666970394235
+    },
+    "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.15 64-bit ('.venv': venv)",
+        "hash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1-b37efff689884fa5d0436ad14fd6c6c7"
+      },
+      "expiry": 1666970394489
+    },
+    "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1"
+      },
+      "expiry": 1666970394530
+    },
+    "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+        "info": {
+          "architecture": 3,
+          "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.15-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 15,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.15-final"
+          },
+          "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+          "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+          "envName": ".venv",
+          "type": "Venv",
+          "displayName": "Python 3.9.15 64-bit ('.venv': venv)"
+        }
+      },
+      "expiry": 1666970394549
+    },
+    "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.15 64-bit ('.venv': venv)",
+        "hash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1-6a896f7918aace1e21b65380450fb221"
+      },
+      "expiry": 1666970394587
+    },
+    "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "8bce78a1ec08d201c15ccc040d449476fca7ea7906b4c0261c657db8e5f0474d5eb71f500ba761fb12949272d9038f63cf38cf43f1cc16b9d27ef4d8b6868e79"
+      },
+      "expiry": 1667140998896
+    },
+    "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e"
+      },
+      "expiry": 1668419763827
+    },
+    "/home/aboka/Projects/tribometer-arduino/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e"
+      },
+      "expiry": 1668419763830
+    },
+    "/home/aboka/Projects/tribometer-arduino/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.15 64-bit ('.venv': venv)",
+        "hash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e-d15ce568610c3eacd5473efb4a6c3c08"
+      },
+      "expiry": 1668419951920
+    },
+    "/home/aboka/Projects/tribometer-arduino/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "info": {
+          "architecture": 3,
+          "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.15-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 15,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.15-final"
+          },
+          "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+          "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+          "envName": ".venv",
+          "type": "Venv",
+          "displayName": "Python 3.9.15 64-bit ('.venv': venv)"
+        }
+      },
+      "expiry": 1668419951989
+    },
+    "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8bce78a1ec08d201c15ccc040d449476fca7ea7906b4c0261c657db8e5f0474d5eb71f500ba761fb12949272d9038f63cf38cf43f1cc16b9d27ef4d8b6868e79"
+      },
+      "expiry": 1667140999069
+    },
+    "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "8bce78a1ec08d201c15ccc040d449476fca7ea7906b4c0261c657db8e5f0474d5eb71f500ba761fb12949272d9038f63cf38cf43f1cc16b9d27ef4d8b6868e79-4207416997c40028718e0fc974785e06"
+      },
+      "expiry": 1667140999154
+    },
+    "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e"
+      },
+      "expiry": 1668419763824
+    },
+    "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1667486034101
+    },
+    "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1667486034076
+    },
+    "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1667486034028
+    },
+    "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63-d2b30144e18a62f02a2231798210022a"
+      },
+      "expiry": 1667486034442
+    },
+    "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "info": {
+          "architecture": 3,
+          "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.8-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.8-final"
+          },
+          "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+          "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+          "envName": ".venv",
+          "type": "Venv",
+          "displayName": "Python 3.10.8 64-bit ('.venv': venv)"
+        }
+      },
+      "expiry": 1667486034860
+    },
+    "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1667486034503
+    },
+    "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63-d48dd1d5b4075ac60e4da1557872d26f"
+      },
+      "expiry": 1667486035306
+    },
+    "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1668935163648
+    },
+    "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1668935163662
+    },
+    "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1668935163645
+    },
+    "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63-f5753dcdf381eda2d61a5edb545293f0"
+      },
+      "expiry": 1668935167518
+    },
+    "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "info": {
+          "architecture": 3,
+          "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.8-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.8-final"
+          },
+          "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+          "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+          "envName": ".venv",
+          "type": "Venv",
+          "displayName": "Python 3.10.8 64-bit ('.venv': venv)"
+        }
+      },
+      "expiry": 1668935167607
+    },
+    "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1668935167578
+    },
+    "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63-df7bebb767be909b6e134888382a8241"
+      },
+      "expiry": 1668935167735
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.9-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.9-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+      "type": "Unknown",
+      "displayName": "Python 3.10.9 64-bit"
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.9-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.9-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+      "type": "Unknown",
+      "displayName": "Python 3.10.9 64-bit"
+    },
+    "pylint_DisableLinterInstallPrompt": true,
+    "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832"
+      },
+      "expiry": 1668698906532
+    },
+    "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832"
+      },
+      "expiry": 1668698906538
+    },
+    "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832"
+      },
+      "expiry": 1668698906563
+    },
+    "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832-30508154b6a510cb2b69ca17a52b1a01"
+      },
+      "expiry": 1668698906782
+    },
+    "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+        "info": {
+          "architecture": 3,
+          "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.8-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.8-final"
+          },
+          "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+          "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+          "envName": ".venv",
+          "type": "Venv",
+          "displayName": "Python 3.10.8 64-bit ('.venv': venv)"
+        }
+      },
+      "expiry": 1668698906805
+    },
+    "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832"
+      },
+      "expiry": 1668698908020
+    },
+    "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832-038e8b5f89559e7fc7160e688b55b743"
+      },
+      "expiry": 1668698908144
+    },
+    "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1671972443344
+    },
+    "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1671972443293
+    },
+    "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1671972443298
+    },
+    "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63-b6eda160258d02523a40fa02d5859322"
+      },
+      "expiry": 1671972443752
+    },
+    "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "info": {
+          "architecture": 3,
+          "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.8-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.8-final"
+          },
+          "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+          "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+          "envName": ".venv",
+          "type": "Venv",
+          "displayName": "Python 3.10.8 64-bit ('.venv': venv)"
+        }
+      },
+      "expiry": 1671972443996
+    },
+    "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63"
+      },
+      "expiry": 1671972443853
+    },
+    "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit ('.venv': venv)",
+        "hash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63-64a5b5bfc96f0b2efbe5a35cfecdf0cb"
+      },
+      "expiry": 1671972444285
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.9-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.9-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+      "type": "Unknown"
+    },
+    "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e"
+      },
+      "expiry": 1676196437568
+    },
+    "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e"
+      },
+      "expiry": 1676196437571
+    },
+    "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e"
+      },
+      "expiry": 1676196437575
+    },
+    "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.16 64-bit ('.venv': venv)",
+        "hash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e-6ee5d1e799382a2e8e2f255d805552ce"
+      },
+      "expiry": 1676196437664
+    },
+    "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "info": {
+          "architecture": 3,
+          "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.16-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.16-final"
+          },
+          "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+          "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+          "envName": ".venv",
+          "type": "Venv",
+          "displayName": "Python 3.9.16 64-bit ('.venv': venv)"
+        }
+      },
+      "expiry": 1676196437720
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.16-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 16,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.16-final"
+      },
+      "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+      "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+      "envName": ".venv",
+      "type": "Venv"
+    },
+    "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e"
+      },
+      "expiry": 1676196438232
+    },
+    "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.16 64-bit ('.venv': venv)",
+        "hash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e-70f34fd4b01847beeace362461039755"
+      },
+      "expiry": 1676196438620
+    }
+  },
+  "coc-python|/home/aboka/Projects/e-commerce-app": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:494bd06acdd5443c9d970594bec77af4": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:494bd06acdd5443c9d970594bec77af4": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Projects/e-commerce-app": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e3bdf5bb4837ed282a9c5a8ea61cfafc1f5efe5c9d462d2f5ae6bb9a2d22d3354844ab66560d57a37ab78fdc5b1b46b650490a89347afe1473f19fbf385da7ee",
+      "type": "Unknown"
+    }
+  },
+  "coc-rust-analyzer|global": {
+    "release": "2023-03-06"
+  },
+  "coc-python|/home/aboka/Projects/wallpaper_exploit": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:562ef5ca37e820420372b61eed540c47": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:562ef5ca37e820420372b61eed540c47": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Projects/wallpaper_exploit": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "e3bdf5bb4837ed282a9c5a8ea61cfafc1f5efe5c9d462d2f5ae6bb9a2d22d3354844ab66560d57a37ab78fdc5b1b46b650490a89347afe1473f19fbf385da7ee",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/aboka/Projects/pyqt5_learning": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:acadb48952a0c85dd2824dc7373b23e8": [],
+    "SelectedPythonPath": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:acadb48952a0c85dd2824dc7373b23e8": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Projects/pyqt5_learning": {
+      "architecture": 3,
+      "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.15-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 15,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.15-final"
+      },
+      "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+      "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+      "envName": ".venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/.venv",
+        "fileHash": "e9a201d0b88f88598bc3a03fbe8a483f89cdfd6fef26bef7e525eac287f451852991b9276df1f0248034308beb01857653aeb7fb5e984d9a6ff8ba1939198961",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/aboka/Projects/pyqt5_learning/ploting": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:0637520c2297f39a24bd76a91b29ea4b": [],
+    "SelectedPythonPath": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:0637520c2297f39a24bd76a91b29ea4b": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Projects/pyqt5_learning/ploting": {
+      "architecture": 3,
+      "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.15-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 15,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.15-final"
+      },
+      "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+      "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/pyqt5_learning/ploting/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/pyqt5_learning/ploting/.venv",
+        "fileHash": "819d3a64dd66f3f50eb87b4c4ff082a2added38a14de6ec3f4c67e73d1414a1af8d8f8d510da5a845d86cc847d86c00f1985bd7162851ac995f8fb825b53a3c1",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/aboka/Projects/tribometer-arduino": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:534c1eb3c9ef114f891786031fe463d3": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:534c1eb3c9ef114f891786031fe463d3": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python",
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.15-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 15,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.15-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Projects/tribometer-arduino": {
+      "architecture": 3,
+      "path": "/home/aboka/Projects/tribometer-arduino/.venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.15-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 15,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.15-final"
+      },
+      "sysPrefix": "/home/aboka/Projects/tribometer-arduino/.venv",
+      "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+      "envName": ".venv",
+      "type": "Venv"
+    }
+  },
+  "coc-python|/home/aboka/Projects/e-commerce-app/server": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fc1931c53912a160843175bbb92f616c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fc1931c53912a160843175bbb92f616c": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.10",
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Projects/e-commerce-app/server": {
+      "architecture": 3,
+      "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+      "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+      "envName": ".venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/aboka/Projects/webdev/e-commerce-app/server": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2779cb7cd89f78c30207c04d9c37191f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2779cb7cd89f78c30207c04d9c37191f": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.10",
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Projects/webdev/e-commerce-app/server": {
+      "architecture": 3,
+      "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+      "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+      "envName": ".venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e631ab54550d5af8e89695a6cc46d580": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e631ab54550d5af8e89695a6cc46d580": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.10",
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server": {
+      "architecture": 3,
+      "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+      "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+      "envName": ".venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/Projects/webdev/e-com-copy/e-commerce-app/server/.venv",
+        "fileHash": "491bf58c6c76f80acfe8c8b9aa6283fcf124b46df2eca7ed38bd11c396b64693ddad0e8fb411891fb55363ab1aec5b163ba14b61fb31fff180fe2c6b5d98a832",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/aboka/TheCode/webdev/e-commerce-app/server": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d61027c995dd78c9a6cdde0eee20bb0e": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d61027c995dd78c9a6cdde0eee20bb0e": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.10",
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/TheCode/webdev/e-commerce-app/server": {
+      "architecture": 3,
+      "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+      "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+      "envName": ".venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/home/aboka/TheCode/webdev/e-commerce-app/server/.venv",
+        "fileHash": "dadc078394bfd5ba32d2d1c919ed6ce83cf9a1f49e3a24cfe9f0b84fef3a3a7ba32bb65bf50c66bd6bb53a64df17630c214e8bd450f8168a002c2148b294ef63",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/aboka/TheCode/webdev/e-commerce-app": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:76a3ea32b055a561ed4b23360f898bec": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:76a3ea32b055a561ed4b23360f898bec": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/TheCode/webdev/e-commerce-app": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "44a6eaa0be63dcb6023f63c2727fcaf620e8c88f489a9084c142ffd06ec5d633d7e1604a24aa48d603673dc3f6679bfcd8d972af2b38bdeefbacc888a794caec",
+      "type": "Unknown",
+      "displayName": "Python 3.10.8 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-json|global": {
+    "json-schema-cache": {
+      "http://json.schemastore.org/prettierrc": {
+        "etag": "\"80e08ca9849bd81:0\"",
+        "fileName": "b2ed7a7b6c79e58baf94e4ce160282de.schema.json",
+        "updateTime": 1672124201008
+      },
+      "https://json.schemastore.org/package.json": {
+        "etag": "\"032a04c70f0d81:0\"",
+        "fileName": "473f72b44c2905902dfbcc770aab7f7a.schema.json",
+        "updateTime": 1672124201560
+      },
+      "https://json.schemastore.org/jscpd.json": {
+        "etag": "\"80bec5ba1984d81:0\"",
+        "fileName": "22bfc1ab1ff56aae62322f6ce45dab5a.schema.json",
+        "updateTime": 1672124202654
+      },
+      "https://json.schemastore.org/semantic-release.json": {
+        "etag": "\"808cdec3a9a4d81:0\"",
+        "fileName": "fbc95702ba6eddb3e2de4f52e31ca82a.schema.json",
+        "updateTime": 1672124202661
+      },
+      "https://json.schemastore.org/ava.json": {
+        "etag": "\"80cdbd40989d91:0\"",
+        "fileName": "635f57185b22bce9d3a56c68f5da4ad7.schema.json",
+        "updateTime": 1672124202680
+      },
+      "https://json.schemastore.org/stylelintrc.json": {
+        "etag": "\"80e08ca9849bd81:0\"",
+        "fileName": "000bfbdd14d2fb8ec5b0d59bec32ef98.schema.json",
+        "updateTime": 1672124202717
+      },
+      "https://json.schemastore.org/prettierrc.json": {
+        "etag": "\"80e08ca9849bd81:0\"",
+        "fileName": "ea5ab10330a3ab77dfd6d00a735b0925.schema.json",
+        "updateTime": 1672124202648
+      },
+      "https://json.schemastore.org/eslintrc.json": {
+        "etag": "\"80ffb6fd316ad81:0\"",
+        "fileName": "c5064f140d4cfdbf4d6fbe68f68abbb1.schema.json",
+        "updateTime": 1672124202713
+      },
+      "https://json.schemastore.org/tsconfig.json": {
+        "etag": "\"05ea279e2bed81:0\"",
+        "fileName": "a28507e42e8bfd5fba830538461d5db3.schema.json",
+        "updateTime": 1670935357209
+      },
+      "https://json.schemastore.org/babelrc.json": {
+        "etag": "\"0691efd316ad81:0\"",
+        "fileName": "ce32cad38c30a5a623bc5807f2a9141d.schema.json",
+        "updateTime": 1671461633986
+      },
+      "https://json.schemastore.org/config.json": {
+        "etag": "\"bcd1f6fd316ad81:0\"",
+        "fileName": "ee050b74d016c5f06e4024d2dce36b54.schema.json",
+        "updateTime": 1677681470005
+      }
+    }
+  },
+  "coc-python|/home/aboka/.local/bin": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:dc3cabd12e52eeb50cc5c055940046c4": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:dc3cabd12e52eeb50cc5c055940046c4": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/.local/bin": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "44a6eaa0be63dcb6023f63c2727fcaf620e8c88f489a9084c142ffd06ec5d633d7e1604a24aa48d603673dc3f6679bfcd8d972af2b38bdeefbacc888a794caec",
+      "type": "Unknown",
+      "displayName": "Python 3.10.8 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/aboka/.config/ranger": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:3cb8e5a54f000192e5abd542268b0997": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:3cb8e5a54f000192e5abd542268b0997": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/.config/ranger": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "44a6eaa0be63dcb6023f63c2727fcaf620e8c88f489a9084c142ffd06ec5d633d7e1604a24aa48d603673dc3f6679bfcd8d972af2b38bdeefbacc888a794caec",
+      "type": "Unknown",
+      "displayName": "Python 3.10.8 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/aboka/.config/eww": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d3b23ccee4534b5a3b8f4e5b0e143730": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d3b23ccee4534b5a3b8f4e5b0e143730": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/.config/eww": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.9-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.9-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+      "type": "Unknown",
+      "displayName": "Python 3.10.9 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/aboka/Code/arduino/tribometer-arduino": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:153f2ca6fa5352a2e2141376aa505cc2": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:153f2ca6fa5352a2e2141376aa505cc2": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Code/arduino/tribometer-arduino": {
+      "architecture": 3,
+      "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.16-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 16,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.16-final"
+      },
+      "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+      "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+      "envName": ".venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/aboka/Code/arduino/tribometer-arduino/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.16-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.16-final"
+        },
+        "sysPrefix": "/home/aboka/Code/arduino/tribometer-arduino/.venv",
+        "fileHash": "b8f18401c4b0808a07791956e06802299ff0f0d403e5423da3010489bf408336c21bfe32f491060cb77e9d7a8585f38012c02d104ca68560d5fc444625cd410e",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/aboka/Code/python/12 Grade Programming": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:194171f48217412f9bfc640da394397f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:194171f48217412f9bfc640da394397f": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/aboka/Code/python/12 Grade Programming": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.9-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.9-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "a39800b7fa60c0eb90c9efa38377e5c703f5e6161aadfb300cd4fd63a47658af24c33949de46855ff85bf04af8329bf33493972ee4e6df8ac66a9fb506d78730",
+      "type": "Unknown",
+      "displayName": "Python 3.10.9 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

@@ -1,0 +1,29 @@
+import:
+  - ~/.config/alacritty/colors.yml
+window:
+  padding:
+    x: 5
+    y: 5
+  dynamic_padding: false
+  opacity: 0.75
+  title: Terminal
+font:
+  normal:
+    family: JetBrains Mono
+    style: Semibold
+  bold:
+    family: JetBrains Mono
+    style: Bold
+  italic:
+    family: JetBrains Mono
+    style: Italic
+  size: 9.5
+  offset:
+    x: 0
+    y: 0
+  glyph_offset:
+    x: 0
+    y: 0
+key_bindings:
+  - { key: N, mods: Control|Shift, command: { program: "/bin/bash", args: ["-c", "/home/aboka/.config/spawn-alacritty-cwd.sh"] } }
+live_config_reload: true

@@ -1,0 +1,67 @@
+# bpytop template for wpgtk
+# by improvisedexplosivedevice
+
+# Colors should be in 6 or 2 character hexadecimal or single spaced rgb decimal: "#RRGGBB", "#BW" or "0-255 0-255 0-255"
+# example for white: "#ffffff", "#ff" or "255 255 255".
+
+# All graphs and meters can be gradients
+# For single color graphs leave "mid" and "end" variable empty.
+# Use "start" and "end" variables for two color gradient
+# Use "start", "mid" and "end" for three color gradient
+
+
+# TEXT
+theme[main_fg]="#eccae7"          # Main text color
+theme[title]="#eccae7"            # Title color for boxes
+theme[hi_fg]="#A062C2"            # Higlight color for keyboard shortcuts
+theme[inactive_fg]="#a58da1"       # Color of inactive/disabled text
+theme[graph_text]="#FCA8BC"       # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
+
+
+# OTHER
+theme[main_bg]="#030309"           # Main background, empty for terminal default, need to be empty if you want transparent background
+theme[selected_bg]="#bf4885"       # Background color of selected item in processes box
+theme[selected_fg]="#eccae7"       # Foreground color of selected item in processes box
+theme[proc_misc]="#FCA8BC"        # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+
+
+# OUTLINES
+theme[cpu_box]="#A062C2"           # Cpu box outline color
+theme[mem_box]="#F05BA7"           # Memory/disks box outline color
+theme[net_box]="#A062C2"           # Net up/down box outline color
+theme[proc_box]="#F05BA7"          # Processes box outline color
+theme[div_line]="#F05BA7"          # Box divider line and small boxes line color
+
+
+# METERS
+theme[meter_bg]="#a58da1"          # Background color of the percentage meters
+theme[used_start]="#FCA8BC"        # Mem/Disk used meter
+theme[used_mid]=""
+theme[used_end]="#FCA8BC"
+theme[available_start]="#B09CD2"   # Mem/Disk available meter
+theme[available_mid]=""
+theme[available_end]="#B09CD2"
+theme[cached_start]="#FCA8BC"      # Mem/Disk cached meter
+theme[cached_mid]=""
+theme[cached_end]="#FCA8BC"
+theme[free_start]="#B09CD2"        # Mem/Disk free meter
+theme[free_mid]=""
+theme[free_end]="#B09CD2"
+
+
+# GRAPHS
+theme[temp_start]="#367bf0"         # Temperature graph colors
+theme[temp_mid]="#b8174c"
+theme[temp_end]="#d41919"
+theme[cpu_start]="#A062C2"        # CPU graph colors
+theme[cpu_mid]="#FC73B1"
+theme[cpu_end]="#F05BA7"
+theme[download_start]="#FCA8BC"    # Download graph colors
+theme[download_mid]="#F05BA7"
+theme[download_end]="#F05BA7"  
+theme[upload_start]="#FC73B1"     # Upload graph colors
+theme[upload_mid]="#FC73B1"
+theme[upload_end]="#B09CD2"
+theme[process_start]="#FCA8BC"    # Process box color gradient for threads, mem and cpu usage
+theme[process_mid]="#B09CD2"
+theme[process_end]="#FD8EB6"

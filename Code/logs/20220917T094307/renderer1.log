@@ -1,0 +1,3 @@
+[2022-09-17 09:43:08.511] [renderer1] [critical] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-09-17 09:43:08.663] [renderer1] [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+[2022-09-17 09:43:09.957] [renderer1] [error] [Extension Host] /bin/sh: line 1: hostname: command not found

@@ -1,0 +1,87 @@
+[2022-09-17T03:43:10.179Z] Log level: Info
+[2022-09-17T03:43:10.181Z] [info] Validating found git in: git
+[2022-09-17T03:43:10.333Z] [info] Using git 2.37.3 from git
+[2022-09-17T03:43:10.348Z] > git rev-parse --show-toplevel [3ms]
+[2022-09-17T03:43:10.348Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:43:10.374Z] > git rev-parse --show-toplevel [21ms]
+[2022-09-17T03:43:10.379Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-09-17T03:43:10.383Z] [info] Open repository: /home/aboka/Projects/e-commerce-app
+[2022-09-17T03:43:10.402Z] > git status -z -uall [5ms]
+[2022-09-17T03:43:10.410Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-17T03:43:10.421Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [2ms]
+[2022-09-17T03:43:10.430Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-17T03:43:10.431Z] > git remote --verbose [2ms]
+[2022-09-17T03:43:10.438Z] > git config --get commit.template [0ms]
+[2022-09-17T03:43:10.446Z] > git status -z -uall [3ms]
+[2022-09-17T03:43:10.455Z] > git symbolic-ref --short HEAD [5ms]
+[2022-09-17T03:43:10.462Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-09-17T03:43:10.475Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-09-17T03:43:10.478Z] > git remote --verbose [3ms]
+[2022-09-17T03:43:10.489Z] > git config --get commit.template [4ms]
+[2022-09-17T03:43:10.565Z] > git config --local branch.development.github-pr-owner-number [6ms]
+[2022-09-17T03:43:10.585Z] > git status -z -uall [14ms]
+[2022-09-17T03:43:10.596Z] > git symbolic-ref --short HEAD [7ms]
+[2022-09-17T03:43:10.601Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-09-17T03:43:10.609Z] > git remote --verbose [1ms]
+[2022-09-17T03:43:10.609Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-17T03:43:10.616Z] > git config --get commit.template [1ms]
+[2022-09-17T03:43:10.715Z] > git show --textconv :client/src/components/SignInUp.jsx [7ms]
+[2022-09-17T03:43:10.715Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SignInUp.jsx [3ms]
+[2022-09-17T03:43:10.721Z] > git cat-file -s 340ed62deb35ff449b4fc133319f881e66d1eaab [2ms]
+[2022-09-17T03:43:11.001Z] > git check-ignore -v -z --stdin [5ms]
+[2022-09-17T03:43:11.417Z] > git fetch [1025ms]
+[2022-09-17T03:43:11.417Z] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/1Aboka1/e-commerce-app.git/'
+[2022-09-17T03:43:11.613Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SignInUp.jsx [10ms]
+[2022-09-17T03:43:11.634Z] > git cat-file -s 340ed62deb35ff449b4fc133319f881e66d1eaab [15ms]
+[2022-09-17T03:43:11.644Z] > git show --textconv :client/src/components/SignInUp.jsx [1ms]
+[2022-09-17T03:45:20.685Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-17T03:45:20.685Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:45:25.848Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-17T03:45:25.848Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:45:30.700Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-17T03:45:30.700Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:45:32.531Z] > git rev-parse --show-toplevel [2ms]
+[2022-09-17T03:45:32.531Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:45:38.657Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-17T03:45:38.657Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:45:39.167Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-17T03:45:40.735Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-17T03:45:46.355Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-17T03:46:03.869Z] > git rev-parse --show-toplevel [2ms]
+[2022-09-17T03:46:03.869Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:46:07.119Z] > git rev-parse --show-toplevel [3ms]
+[2022-09-17T03:46:07.119Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:46:09.550Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-17T03:46:09.550Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:46:52.179Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-17T03:46:52.179Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:46:58.287Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-17T03:46:58.287Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:47:00.169Z] > git rev-parse --show-toplevel [4ms]
+[2022-09-17T03:47:00.169Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:47:01.741Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-17T03:47:01.741Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:47:03.629Z] > git rev-parse --show-toplevel [2ms]
+[2022-09-17T03:47:03.629Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-17T03:47:18.296Z] > git show --textconv :client/src/components/SignInUp.jsx [5ms]
+[2022-09-17T03:47:18.297Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SignInUp.jsx [1ms]
+[2022-09-17T03:47:18.302Z] > git cat-file -s 340ed62deb35ff449b4fc133319f881e66d1eaab [0ms]

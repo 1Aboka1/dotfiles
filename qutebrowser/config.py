@@ -1,0 +1,1 @@
+/home/aboka/.dotfiles_new/files/qutebrowser/config.py

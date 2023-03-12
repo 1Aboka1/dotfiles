@@ -1,0 +1,8 @@
+2023/03/11-10:45:43.077 20725 Reusing MANIFEST /home/aboka/.config/Microsoft/Microsoft Teams/IndexedDB/https_euc-powerpoint.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/11-10:45:43.077 20725 Recovering log #223
+2023/03/11-10:45:43.077 20725 Reusing old log /home/aboka/.config/Microsoft/Microsoft Teams/IndexedDB/https_euc-powerpoint.officeapps.live.com_0.indexeddb.leveldb/000223.log 
+2023/03/11-10:45:49.402 26f4 Level-0 table #227: started
+2023/03/11-10:45:49.402 26f4 Level-0 table #227: 0 bytes OK
+2023/03/11-10:45:49.411 26f4 Delete type=0 #223
+2023/03/11-10:45:49.411 26f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/11-10:45:49.411 26f4 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

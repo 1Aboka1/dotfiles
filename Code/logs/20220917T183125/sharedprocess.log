@@ -1,0 +1,5 @@
+[2022-09-17 18:31:49.204] [sharedprocess] [info] Starting worker process with pid 2828 (type: fileWatcher, window: 1).
+[2022-09-17 18:31:52.080] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-17 19:21:52.405] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-09-17 19:26:52.465] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-09-17 19:31:52.546] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}

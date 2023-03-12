@@ -1,0 +1,34 @@
+[Info] /home/aboka/.ssh/config: ENOENT: no such file or directory, open '/home/aboka/.ssh/config'
+[Info] Registering git provider
+[Info] Looking for git repository
+[Info] Found 1 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] No remotes found. The following remotes are missing: origin, upstream
+[Info] No GitHub remotes found
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] Found GitHub remote
+[Info] Review> current branch development is associated with pull request #6
+[Info] Review> Resolving pull request
+[Info] GithubRepository> Unable to fetch PR: Error: Not authenticated.
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Review> This PR is no longer valid
+[Info] Repository file:///home/aboka/Projects/rust/training has been opened
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] No remotes found. The following remotes are missing: origin, upstream
+[Info] No GitHub remotes found
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Review> Queuing additional validate state
+[Info] Repo state for file:///home/aboka/Projects/rust/training changed.
+[Info] Repo file:///home/aboka/Projects/rust/training has already been setup.
+[Info] Review> Validating state...
+[Info] No remotes found. The following remotes are missing: origin, upstream
+[Info] No GitHub remotes found
+[Info] Review> no matching pull request metadata found for current branch master
+[Info] Review> no matching pull request metadata found on GitHub for current branch master
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] PullRequestTree> Removing PR #undefined from tree

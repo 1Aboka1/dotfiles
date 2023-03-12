@@ -1,0 +1,24 @@
+2023/03/10-19:03:53.099 50e22 Reusing MANIFEST /home/aboka/.config/notion-app/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/10-19:03:53.099 50e22 Recovering log #1011
+2023/03/10-19:03:53.110 50e22 Reusing old log /home/aboka/.config/notion-app/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/001011.log 
+2023/03/10-19:11:00.801 50ebf Level-0 table #1022: started
+2023/03/10-19:11:00.832 50ebf Level-0 table #1022: 1349598 bytes OK
+2023/03/10-19:11:00.834 50ebf Delete type=0 #1011
+2023/03/10-19:11:02.372 50e22 Compacting 1@1 + 7@2 files
+2023/03/10-19:11:02.414 50e22 Generated table #1023@1: 4126 keys, 2207828 bytes
+2023/03/10-19:11:02.449 50e22 Generated table #1024@1: 25572 keys, 2259368 bytes
+2023/03/10-19:11:02.484 50e22 Generated table #1025@1: 24088 keys, 2262883 bytes
+2023/03/10-19:11:02.518 50e22 Generated table #1026@1: 24922 keys, 2266621 bytes
+2023/03/10-19:11:02.556 50e22 Generated table #1027@1: 23714 keys, 2273138 bytes
+2023/03/10-19:11:02.589 50e22 Generated table #1028@1: 50834 keys, 2209877 bytes
+2023/03/10-19:11:02.601 50e22 Generated table #1029@1: 21072 keys, 379646 bytes
+2023/03/10-19:11:02.601 50e22 Compacted 1@1 + 7@2 files => 13859361 bytes
+2023/03/10-19:11:02.602 50e22 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/03/10-19:11:02.602 50e22 Delete type=2 #1022
+2023/03/10-19:11:02.602 50e22 Delete type=2 #1016
+2023/03/10-19:11:02.602 50e22 Delete type=2 #1015
+2023/03/10-19:11:02.602 50e22 Delete type=2 #1019
+2023/03/10-19:11:02.602 50e22 Delete type=2 #1014
+2023/03/10-19:11:02.602 50e22 Delete type=2 #1017
+2023/03/10-19:11:02.602 50e22 Delete type=2 #1018
+2023/03/10-19:11:02.602 50e22 Delete type=2 #1013

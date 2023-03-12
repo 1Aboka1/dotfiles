@@ -1,0 +1,20 @@
+2022-12-05 20:19:34.889 [warning] Ignoring the error while validating workspace folder file:///home/aboka/Projects/e-commerce-app - Error: ENOENT: no such file or directory, stat '/home/aboka/Projects/e-commerce-app'
+2022-12-05 20:19:34.890 [error] Error: File not found
+    at h.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2745:95931)
+    at async h.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2745:95171)
+    at async a.doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2743:6429)
+    at async a.doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2743:4791)
+    at async a.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2743:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2970:16742
+2022-12-05 20:19:35.106 [warning] Ignoring the error while validating workspace folder file:///home/aboka/Projects/rust/training - Error: ENOENT: no such file or directory, stat '/home/aboka/Projects/rust/training'
+2022-12-05 20:19:35.505 [critical] Extension 'github.vscode-pull-request-github' wants API proposal 'badges' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.505 [critical] Extension 'github.vscode-pull-request-github' wants API proposal 'contribViewSize' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.505 [critical] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookWorkspaceEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.505 [critical] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookDebugOptions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.505 [critical] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.599 [info] [eamodio.gitlens]: Command `gitlens.copyAutolinkUrl` appears multiple times in the `commands` section.
+2022-12-05 20:19:35.601 [info] [ms-toolsai.jupyter]: Command `jupyter.selectNativeJupyterUriFromToolBar` appears multiple times in the `commands` section.
+2022-12-05 20:19:35.647 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2022-12-05 20:19:37.061 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-05 20:19:38.166 [info] [perf] Render performance baseline is 38ms
+2022-12-05 20:19:38.508 [error] ENOENT: no such file or directory, scandir '/home/aboka/Projects/e-commerce-app': Error: ENOENT: no such file or directory, scandir '/home/aboka/Projects/e-commerce-app'

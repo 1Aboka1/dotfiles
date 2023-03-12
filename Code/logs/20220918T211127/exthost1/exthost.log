@@ -1,0 +1,36 @@
+[2022-09-18 21:11:47.494] [exthost] [info] Extension host with pid 5016 started
+[2022-09-18 21:11:47.494] [exthost] [info] Skipping acquiring lock for /home/aboka/.config/Code/User/workspaceStorage/4dc0ab52c46b54f543104e2afc52a7e4.
+[2022-09-18 21:11:47.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+[2022-09-18 21:11:48.098] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascriptreact'
+[2022-09-18 21:11:50.979] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:javascriptreact'
+[2022-09-18 21:11:51.515] [exthost] [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel, startup: false, activationEvent: 'onLanguage:javascriptreact'
+[2022-09-18 21:11:51.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-18 21:11:53.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-18 21:11:53.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-18 21:11:54.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-18 21:11:54.518] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-09-18 21:11:57.443] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-09-18 21:11:57.638] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-09-18 21:11:57.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: true, activationEvent: '*', root cause: GitHub.vscode-pull-request-github
+[2022-09-18 21:11:58.236] [exthost] [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+[2022-09-18 21:12:01.940] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2022-09-18 21:12:02.174] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: true, activationEvent: '*'
+[2022-09-18 21:12:04.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:04.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:04.948] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:05.323] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:05.625] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:10.777] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:11.114] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:11.351] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:11.645] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:11.927] [exthost] [info] ExtensionService#_doActivateExtension RapidAPI.vscode-rapidapi-client, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 21:12:12.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-18 21:12:13.501] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-18 21:12:13.911] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-09-18 21:12:14.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-18 21:12:14.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-18 21:13:04.342] [exthost] [info] Eager extensions activated
+[2022-09-18 22:16:16.513] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-18 22:16:16.546] [exthost] [warning] {"name":"Canceled"}
+[2022-09-18 22:16:17.546] [exthost] [info] Extension host with pid 5016 exiting with code 0

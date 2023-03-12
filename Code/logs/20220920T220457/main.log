@@ -1,0 +1,6 @@
+[2022-09-20 22:04:58.923] [main] [info] update#setState idle
+[2022-09-20 22:05:02.987] [main] [info] Starting extension host with pid 6498 (fork() took 5 ms).
+[2022-09-20 22:05:10.781] [main] [info] Enabling inspect port on extension host with pid 6498.
+[2022-09-20 22:05:28.926] [main] [info] update#setState checking for updates
+[2022-09-20 22:05:29.062] [main] [info] update#setState idle
+[2022-09-20 22:07:27.149] [main] [info] Extension host with pid 6498 exited with code: null, signal: SIGHUP.

@@ -1,0 +1,24 @@
+[2022-09-20 22:05:03.088] [renderer1] [critical] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-09-20 22:05:04.045] [renderer1] [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+[2022-09-20 22:05:10.899] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-09-20 22:05:11.391] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-09-20 22:05:11.445] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.github-authentication' took 100% of 108.43ms, saved PROFILE here: 'file:///tmp/exthost-49e632.cpuprofile' [{"id":"vscode.github-authentication","total":108297,"percentage":100}]
+[2022-09-20 22:05:11.900] [renderer1] [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+[2022-09-20 22:05:15.224] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-09-20 22:05:15.229] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-09-20 22:05:20.949] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-09-20 22:05:25.052] [renderer1] [error] [Extension Host] Error: Binary request timed out. {"Features":{}}
+    at Timeout._onTimeout (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2022-09-20 22:05:25.052] [renderer1] [error] [Extension Host] Error: Could not get enabled capabilities
+    at Object.t.getCapabilities (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:45079)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processTimers (node:internal/timers:499:9)
+    at l (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:51517)
+[2022-09-20 22:05:25.058] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-09-20 22:05:25.128] [renderer1] [warning] UNRESPONSIVE extension host: 'dsznajder.es7-react-js-snippets' took 74% of 4197.735ms, saved PROFILE here: 'file:///tmp/exthost-130e96.cpuprofile' [{"id":"bradlc.vscode-tailwindcss","total":153,"percentage":0},{"id":"dbaeumer.vscode-eslint","total":3775,"percentage":0},{"id":"dsznajder.es7-react-js-snippets","total":3092385,"percentage":74},{"id":"eamodio.gitlens","total":13891,"percentage":0},{"id":"gc","total":35361,"percentage":1},{"id":"GitHub.vscode-pull-request-github","total":153,"percentage":0},{"id":"ms-vscode-remote.remote-containers","total":10671,"percentage":0},{"id":"ms-vscode-remote.remote-wsl","total":83777,"percentage":2},{"id":"PKief.material-icon-theme","total":5392,"percentage":0},{"id":"program","total":613,"percentage":0},{"id":"RapidAPI.vscode-rapidapi-client","total":48540,"percentage":1},{"id":"self","total":870401,"percentage":21},{"id":"TabNine.tabnine-vscode","total":2896,"percentage":0},{"id":"vscode-icons-team.vscode-icons","total":9511,"percentage":0},{"id":"vscode.emmet","total":2299,"percentage":0},{"id":"vscode.git","total":13293,"percentage":0},{"id":"vscode.json-language-features","total":3802,"percentage":0},{"id":"vscode.merge-conflict","total":765,"percentage":0}]
+[2022-09-20 22:05:36.023] [renderer1] [error] [Extension Host] Error: Binary request timed out. {"SetState":{"state_type":{"StatusShown":{"id":"see-tabnine-insights_2022-09-20 16:05:23.202056106 UTC","text":"See Tabnine Insights 💪","notification_type":"System","state":null}}}}
+    at Timeout._onTimeout (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)

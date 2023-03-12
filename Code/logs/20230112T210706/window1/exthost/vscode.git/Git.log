@@ -1,0 +1,23 @@
+2023-01-12 21:07:08.503 [info] Log level: Info
+2023-01-12 21:07:08.503 [info] Validating found git in: "git"
+2023-01-12 21:07:08.503 [info] Using git "2.39.0" from "git"
+2023-01-12 21:07:08.566 [info] > git rev-parse --show-toplevel [63ms]
+2023-01-12 21:07:08.570 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-12 21:07:08.578 [info] Open repository: /home/aboka/Code/webdev/GitInitHackathon
+2023-01-12 21:07:08.590 [info] > git config --get commit.template [5ms]
+2023-01-12 21:07:08.592 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-01-12 21:07:08.599 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-12 21:07:08.628 [info] > git status -z -uall [32ms]
+2023-01-12 21:07:08.637 [info] > git config --get commit.template [3ms]
+2023-01-12 21:07:08.638 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-01-12 21:07:08.645 [info] > git status -z -uall [5ms]
+2023-01-12 21:07:08.645 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-01-12 21:07:09.151 [info] > git check-ignore -v -z --stdin [1ms]
+2023-01-12 21:07:10.112 [info] > git fetch [1534ms]
+2023-01-12 21:07:10.112 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.

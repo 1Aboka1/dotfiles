@@ -1,0 +1,4 @@
+[2022-09-18 15:12:18.801] [GIT  ] [/home/aboka/Downloads/умт 200] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 359 ms
+
+[2022-09-18 15:13:40.627] [GIT  ] [/home/aboka/Projects/e-commerce-app] git log --format=%x3cr%x3e%x20%H -n3 -m -L 64,64:client/src/components/SignInUp.jsx • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 64,64:client/src/components/SignInUp.jsx • file client/src/components/SignInUp.jsx has only 53 lines • 5 ms
+

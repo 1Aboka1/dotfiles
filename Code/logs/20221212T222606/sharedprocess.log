@@ -1,0 +1,3 @@
+2022-12-12 22:26:08.257 [info] Starting worker process with pid 21014 (type: fileWatcher, window: 2).
+2022-12-12 22:26:08.258 [info] Starting worker process with pid 21015 (type: fileWatcher, window: 1).
+2022-12-12 22:26:10.906 [info] Worker process with pid 21015 terminated normally (type: fileWatcher, window: 1).

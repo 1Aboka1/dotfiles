@@ -1,0 +1,116 @@
+[2022-10-04T15:56:26.293Z] Log level: Info
+[2022-10-04T15:56:26.576Z] [info] Validating found git in: git
+[2022-10-04T15:56:26.864Z] [info] Using git 2.37.3 from git
+[2022-10-04T15:56:26.994Z] > git rev-parse --show-toplevel [120ms]
+[2022-10-04T15:56:26.994Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-04T15:56:27.008Z] > git rev-parse --show-toplevel [10ms]
+[2022-10-04T15:56:27.012Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-10-04T15:56:27.015Z] [info] Open repository: /home/aboka/Projects/e-commerce-app
+[2022-10-04T15:56:27.031Z] > git status -z -uall [7ms]
+[2022-10-04T15:56:27.036Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-04T15:56:27.101Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [61ms]
+[2022-10-04T15:56:27.110Z] > git remote --verbose [1ms]
+[2022-10-04T15:56:27.111Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-10-04T15:56:27.119Z] > git config --get commit.template [1ms]
+[2022-10-04T15:56:27.127Z] > git status -z -uall [2ms]
+[2022-10-04T15:56:27.158Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-04T15:56:27.158Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-04T15:56:27.163Z] > git symbolic-ref --short HEAD [32ms]
+[2022-10-04T15:56:27.168Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-10-04T15:56:27.176Z] > git remote --verbose [2ms]
+[2022-10-04T15:56:27.176Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-10-04T15:56:27.185Z] > git config --get commit.template [4ms]
+[2022-10-04T15:56:27.205Z] > git config --local branch.development.github-pr-owner-number [1ms]
+[2022-10-04T15:56:27.210Z] > git status -z -uall [1ms]
+[2022-10-04T15:56:27.215Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-04T15:56:27.219Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-10-04T15:56:27.240Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+[2022-10-04T15:56:27.240Z] > git remote --verbose [13ms]
+[2022-10-04T15:56:27.254Z] > git config --get commit.template [9ms]
+[2022-10-04T15:56:27.352Z] > git show --textconv :client/src/components/SearchWindow.jsx [5ms]
+[2022-10-04T15:56:27.353Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SearchWindow.jsx [2ms]
+[2022-10-04T15:56:27.357Z] > git cat-file -s 188fe323341574a511be3e6dbd7454c782adeb64 [1ms]
+[2022-10-04T15:56:27.640Z] > git check-ignore -v -z --stdin [0ms]
+[2022-10-04T15:56:28.177Z] > git fetch [1156ms]
+[2022-10-04T15:56:28.177Z] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/1Aboka1/e-commerce-app.git/'
+[2022-10-04T15:56:28.247Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SearchWindow.jsx [1ms]
+[2022-10-04T15:56:28.252Z] > git cat-file -s 188fe323341574a511be3e6dbd7454c782adeb64 [1ms]
+[2022-10-04T15:56:28.259Z] > git show --textconv :client/src/components/SearchWindow.jsx [1ms]
+[2022-10-04T15:56:29.331Z] > git log --oneline --cherry development...development@{upstream} -- [1ms]
+[2022-10-04T15:56:35.365Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SearchWindow.jsx [37ms]
+[2022-10-04T15:56:35.391Z] > git cat-file -s 188fe323341574a511be3e6dbd7454c782adeb64 [19ms]
+[2022-10-04T15:56:35.410Z] > git show --textconv :client/src/components/SearchWindow.jsx [8ms]
+[2022-10-04T15:56:43.813Z] > git pull --tags origin development [14477ms]
+[2022-10-04T15:56:43.813Z] From https://github.com/1Aboka1/e-commerce-app
+ * branch            development -> FETCH_HEAD
+[2022-10-04T15:56:44.976Z] > git config --local branch.development.github-pr-owner-number [29ms]
+[2022-10-04T15:56:44.983Z] > git status -z -uall [1ms]
+[2022-10-04T15:56:44.995Z] > git symbolic-ref --short HEAD [6ms]
+[2022-10-04T15:56:45.000Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SearchWindow.jsx [5ms]
+[2022-10-04T15:56:45.005Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [5ms]
+[2022-10-04T15:56:45.015Z] > git remote --verbose [1ms]
+[2022-10-04T15:56:45.016Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-10-04T15:56:45.018Z] > git cat-file -s 188fe323341574a511be3e6dbd7454c782adeb64 [13ms]
+[2022-10-04T15:56:45.029Z] > git config --get commit.template [6ms]
+[2022-10-04T15:56:45.043Z] > git show --textconv :client/src/components/SearchWindow.jsx [15ms]
+[2022-10-04T15:56:45.568Z] > git push origin development:development [1734ms]
+[2022-10-04T15:56:45.568Z] remote: 
+remote: GitHub found 3 vulnerabilities on 1Aboka1/e-commerce-app's default branch (1 high, 2 moderate). To find out more, visit:        
+remote:      https://github.com/1Aboka1/e-commerce-app/security/dependabot        
+remote: 
+To https://github.com/1Aboka1/e-commerce-app.git
+   6590469..1bc8b57  development -> development
+[2022-10-04T15:56:45.575Z] > git status -z -uall [1ms]
+[2022-10-04T15:56:45.582Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-04T15:56:45.588Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-10-04T15:56:45.600Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-10-04T15:56:45.600Z] > git remote --verbose [1ms]
+[2022-10-04T15:56:45.611Z] > git config --get commit.template [1ms]
+[2022-10-04T15:56:45.871Z] > git config --local branch.development.github-pr-owner-number [38ms]
+[2022-10-04T15:56:45.879Z] > git status -z -uall [2ms]
+[2022-10-04T15:56:45.885Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-04T15:56:45.890Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-10-04T15:56:45.900Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-10-04T15:56:45.900Z] > git remote --verbose [1ms]
+[2022-10-04T15:56:45.908Z] > git config --get commit.template [1ms]
+[2022-10-04T15:56:46.699Z] > git config --local -l [80ms]
+[2022-10-04T15:56:46.707Z] > git status -z -uall [2ms]
+[2022-10-04T15:56:46.714Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-04T15:56:46.720Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-10-04T15:56:46.729Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-10-04T15:56:46.729Z] > git remote --verbose [1ms]
+[2022-10-04T15:56:46.737Z] > git config --get commit.template [1ms]
+[2022-10-04T15:56:46.981Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SearchWindow.jsx [1ms]
+[2022-10-04T15:56:46.990Z] > git cat-file -s 188fe323341574a511be3e6dbd7454c782adeb64 [3ms]
+[2022-10-04T15:56:47.002Z] > git show --textconv :client/src/components/SearchWindow.jsx [1ms]
+[2022-10-04T15:56:47.003Z] > git fetch origin development [1204ms]
+[2022-10-04T15:56:47.003Z] From https://github.com/1Aboka1/e-commerce-app
+ * branch            development -> FETCH_HEAD
+[2022-10-04T15:56:47.010Z] > git status -z -uall [2ms]
+[2022-10-04T15:56:47.020Z] > git symbolic-ref --short HEAD [4ms]
+[2022-10-04T15:56:47.027Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-10-04T15:56:47.047Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-10-04T15:56:47.049Z] > git remote --verbose [12ms]
+[2022-10-04T15:56:47.058Z] > git config --get commit.template [2ms]
+[2022-10-04T15:56:47.065Z] > git status -z -uall [1ms]
+[2022-10-04T15:56:47.071Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-04T15:56:47.076Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-10-04T15:56:47.085Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-10-04T15:56:47.085Z] > git remote --verbose [1ms]
+[2022-10-04T15:56:47.091Z] > git config --get commit.template [0ms]
+[2022-10-04T15:56:47.188Z] > git diff 48914496c8efba2d4ba05876f1aa2c952a10156e -- client/src/components/SearchWindow.jsx [6ms]
+[2022-10-04T15:56:47.189Z] > git diff 48914496c8efba2d4ba05876f1aa2c952a10156e -- client/src/components/SearchWindow.jsx [12ms]
+[2022-10-04T15:56:47.190Z] > git diff 48914496c8efba2d4ba05876f1aa2c952a10156e -- client/src/components/SearchWindow.jsx [17ms]
+[2022-10-04T15:56:47.191Z] > git diff 48914496c8efba2d4ba05876f1aa2c952a10156e -- client/src/components/SearchWindow.jsx [22ms]
+[2022-10-04T15:56:47.192Z] > git diff 48914496c8efba2d4ba05876f1aa2c952a10156e -- client/src/components/SearchWindow.jsx [28ms]
+[2022-10-04T15:56:47.193Z] > git diff 48914496c8efba2d4ba05876f1aa2c952a10156e -- client/src/components/SearchWindow.jsx [7ms]
+[2022-10-04T15:56:48.167Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SearchWindow.jsx [1ms]
+[2022-10-04T15:56:48.174Z] > git cat-file -s 188fe323341574a511be3e6dbd7454c782adeb64 [1ms]
+[2022-10-04T15:56:48.184Z] > git show --textconv :client/src/components/SearchWindow.jsx [1ms]

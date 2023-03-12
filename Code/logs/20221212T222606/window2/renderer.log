@@ -1,0 +1,10 @@
+2022-12-12 22:26:07.569 [critical] Extension 'github.vscode-pull-request-github' wants API proposal 'badges' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-12 22:26:07.569 [critical] Extension 'github.vscode-pull-request-github' wants API proposal 'contribViewSize' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-12 22:26:07.570 [critical] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookWorkspaceEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-12 22:26:07.570 [critical] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookDebugOptions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-12 22:26:07.570 [critical] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-12 22:26:07.670 [info] [eamodio.gitlens]: Command `gitlens.copyAutolinkUrl` appears multiple times in the `commands` section.
+2022-12-12 22:26:07.671 [info] [ms-toolsai.jupyter]: Command `jupyter.selectNativeJupyterUriFromToolBar` appears multiple times in the `commands` section.
+2022-12-12 22:26:07.721 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2022-12-12 22:26:08.534 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-12 22:26:10.118 [info] [perf] Render performance baseline is 24ms

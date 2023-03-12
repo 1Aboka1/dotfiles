@@ -1,0 +1,16 @@
+Error while parsing hooks JSON. Error: ENOENT: no such file or directory, open '/home/aboka/.config/Microsoft/Microsoft Teams/hooks.json'
+(node:8759) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:8759) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:8759) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+
+(firefox:300722): Gtk-WARNING **: 11:38:39.755: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:899258): Gtk-WARNING **: 14:59:35.539: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:910086): Gtk-WARNING **: 15:02:13.697: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:917991): Gtk-WARNING **: 15:04:31.062: Locale not supported by C library.
+	Using the fallback 'C' locale.

@@ -1,0 +1,28 @@
+[2022-09-17 18:31:31.370] [main] [info] update#setState idle
+[2022-09-17 18:31:44.755] [main] [info] Starting extension host with pid 2774 (fork() took 4 ms).
+[2022-09-17 18:32:01.372] [main] [info] update#setState checking for updates
+[2022-09-17 18:32:01.504] [main] [info] update#setState idle
+[2022-09-17 18:32:06.898] [main] [info] Enabling inspect port on extension host with pid 2774.
+[2022-09-17 19:32:01.474] [main] [info] update#setState checking for updates
+[2022-09-17 19:32:01.486] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+[2022-09-17 19:32:01.487] [main] [info] update#setState idle
+[2022-09-17 20:32:01.488] [main] [info] update#setState checking for updates
+[2022-09-17 20:32:02.124] [main] [info] update#setState idle
+[2022-09-17 21:32:01.516] [main] [info] update#setState checking for updates
+[2022-09-17 21:32:01.870] [main] [info] update#setState idle
+[2022-09-17 22:02:32.905] [main] [info] Extension host with pid 2774 exited with code: null, signal: SIGHUP.
+[2022-09-17 22:02:32.920] [main] [error] [uncaught exception in main]: Error: SharedProcess: crashed (detail: killed, code: 15)
+[2022-09-17 22:02:32.920] [main] [error] Error: SharedProcess: crashed (detail: killed, code: 15)
+    at /opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:77:77826
+    at E.invoke (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:2272)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:1850)
+    at /opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:17:20466
+    at E.invoke (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:2272)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:1850)
+    at EventEmitter.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:74:106866)
+    at EventEmitter.emit (node:events:538:35)
+[2022-09-17 22:02:32.928] [main] [error] CodeWindow: renderer process crashed (reason: killed, code: 15)

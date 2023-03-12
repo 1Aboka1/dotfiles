@@ -1,0 +1,4 @@
+2022-12-05 20:19:37.376 [info] Reading sessions from secret storage...
+2022-12-05 20:19:37.376 [info] Got 0 stored sessions
+2022-12-05 20:19:37.405 [info] Getting sessions for the following scopes: email offline_access openid profile
+2022-12-05 20:19:37.406 [info] Got 0 sessions for scopes: email offline_access openid profile

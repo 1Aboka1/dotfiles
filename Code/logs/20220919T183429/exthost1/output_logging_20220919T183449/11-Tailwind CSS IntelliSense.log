@@ -1,0 +1,10 @@
+Found Tailwind CSS config file: /home/aboka/Projects/e-commerce-app/client/tailwind.config.js
+Loaded postcss v8.4.16: /home/aboka/Projects/e-commerce-app/client/node_modules/postcss
+Loaded tailwindcss v3.1.8: /home/aboka/Projects/e-commerce-app/client/node_modules/tailwindcss
+
+warn - The `purge`/`content` options have changed in Tailwind CSS v3.0.
+warn - Update your configuration file to eliminate this warning.
+warn - https://tailwindcss.com/docs/upgrade-guide#configure-content-sources
+
+warn - The RTL features in Tailwind CSS are currently in preview.
+warn - Preview features are not covered by semver, and may be improved in breaking ways at any time.

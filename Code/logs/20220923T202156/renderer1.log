@@ -1,0 +1,28 @@
+[2022-09-23 20:22:01.937] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2727:95841)
+    at async g.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2727:95081)
+    at async r.doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:6429)
+    at async r.doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:4791)
+    at async r.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2725:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2932:16794
+[2022-09-23 20:22:02.179] [renderer1] [warning] Ignoring the error while validating workspace folder file:///home/aboka/Projects/rust/training - Error: ENOENT: no such file or directory, stat '/home/aboka/Projects/rust/training'
+[2022-09-23 20:22:03.965] [renderer1] [critical] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-09-23 20:22:04.092] [renderer1] [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+[2022-09-23 20:22:11.095] [renderer1] [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+[2022-09-23 20:22:23.159] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-09-23 20:22:26.778] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-09-23 20:22:26.840] [renderer1] [warning] UNRESPONSIVE extension host: 'dsznajder.es7-react-js-snippets' took 57% of 3714.357ms, saved PROFILE here: 'file:///tmp/exthost-0345c2.cpuprofile' [{"id":"dsznajder.es7-react-js-snippets","total":2133294,"percentage":57},{"id":"eamodio.gitlens","total":12969,"percentage":0},{"id":"gc","total":23399,"percentage":1},{"id":"ms-vscode-remote.remote-containers","total":11116,"percentage":0},{"id":"ms-vscode-remote.remote-wsl","total":125233,"percentage":3},{"id":"PKief.material-icon-theme","total":5025,"percentage":0},{"id":"RapidAPI.vscode-rapidapi-client","total":54847,"percentage":1},{"id":"self","total":1344791,"percentage":36},{"id":"TabNine.tabnine-vscode","total":3054,"percentage":0},{"id":"vscode.typescript-language-features","total":573,"percentage":0}]
+[2022-09-23 20:22:27.736] [renderer1] [error] [Extension Host] Error: Binary request timed out. {"Features":{}}
+    at Timeout._onTimeout (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2022-09-23 20:22:27.736] [renderer1] [error] [Extension Host] Error: Could not get enabled capabilities
+    at Object.t.getCapabilities (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:45079)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processTimers (node:internal/timers:499:9)
+    at l (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:51517)
+[2022-09-23 20:22:27.739] [renderer1] [error] ENOENT: no such file or directory, scandir '/home/aboka/Projects/rust/training': Error: ENOENT: no such file or directory, scandir '/home/aboka/Projects/rust/training'
+[2022-09-23 20:22:37.783] [renderer1] [error] [Extension Host] Error: Binary request timed out. {"SetState":{"state_type":{"StatusShown":{"id":"see-tabnine-insights_2022-09-23 14:22:20.493985209 UTC","text":"See Tabnine Insights 💪","notification_type":"System","state":null}}}}
+    at Timeout._onTimeout (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)

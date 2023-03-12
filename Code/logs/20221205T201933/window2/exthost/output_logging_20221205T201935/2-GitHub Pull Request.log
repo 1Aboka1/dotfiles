@@ -1,0 +1,53 @@
+[Info] /home/aboka/.ssh/config: ENOENT: no such file or directory, open '/home/aboka/.ssh/config'
+[Info] Looking for git repository
+[Info] Found 0 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Registering git provider
+[Info] Repository file:///home/aboka/.cfg has been opened
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] Cannot updates repositories as git is uninitialized
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Review> Queuing additional validate state
+[Info] Repo state for file:///home/aboka/.cfg changed.
+[Info] Repo file:///home/aboka/.cfg has already been setup.
+[Info] Review> Validating state...
+[Info] Cannot updates repositories as git is uninitialized
+[Info] Review> no matching pull request metadata found for current branch master
+[Info] Review> no matching pull request metadata found on GitHub for current branch master
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Repository file:///home/aboka/yay has been opened
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] Cannot updates repositories as git is uninitialized
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Git initialization state changed: state=initialized
+[Info] Review> Queuing additional validate state
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] No remotes found. The following remotes are missing: origin, upstream
+[Info] No GitHub remotes found
+[Info] Review> Validating state...
+[Info] No remotes found. The following remotes are missing: origin, upstream
+[Info] Review> no matching pull request metadata found for current branch master
+[Info] Review> no matching pull request metadata found on GitHub for current branch master
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] No GitHub remotes found
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Review> Queuing additional validate state
+[Info] Repo state for file:///home/aboka/yay changed.
+[Info] Repo file:///home/aboka/yay has already been setup.
+[Info] Review> Validating state...
+[Info] No remotes found. The following remotes are missing: origin, upstream
+[Info] No GitHub remotes found
+[Info] Review> no matching pull request metadata found for current branch master
+[Info] Review> no matching pull request metadata found on GitHub for current branch master
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] No remotes found. The following remotes are missing: origin, upstream
+[Info] No GitHub remotes found
+[Info] Review> no matching pull request metadata found for current branch master
+[Info] Review> no matching pull request metadata found on GitHub for current branch master
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] PullRequestTree> Removing PR #undefined from tree

@@ -1,0 +1,6 @@
+2022-12-05 20:19:33.461 [info] update#setState idle
+2022-12-05 20:19:34.788 [info] Starting extension host with pid 4778 (fork() took 5 ms).
+2022-12-05 20:19:35.154 [info] Starting extension host with pid 4817 (fork() took 4 ms).
+2022-12-05 20:19:44.066 [info] Extension host with pid 4778 exited with code: 0, signal: null.
+2022-12-05 20:19:44.382 [info] Waiting for extension host with pid 4817 to exit.
+2022-12-05 20:19:44.921 [info] Extension host with pid 4817 exited with code: 0, signal: null.

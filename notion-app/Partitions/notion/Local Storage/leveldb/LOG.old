@@ -1,0 +1,20 @@
+2023/03/10-19:03:51.325 50ec0 Reusing MANIFEST /home/aboka/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2023/03/10-19:03:51.327 50ec0 Recovering log #8323
+2023/03/10-19:03:51.330 50ec0 Level-0 table #8326: started
+2023/03/10-19:03:51.340 50ec0 Level-0 table #8326: 16095 bytes OK
+2023/03/10-19:03:51.343 50ec0 Delete type=0 #8323
+2023/03/10-19:04:52.224 50e22 Level-0 table #8329: started
+2023/03/10-19:04:52.241 50e22 Level-0 table #8329: 434035 bytes OK
+2023/03/10-19:04:52.242 50e22 Delete type=0 #8327
+2023/03/10-19:04:52.243 50ebf Compacting 4@0 + 1@1 files
+2023/03/10-19:04:52.262 50ebf Generated table #8330@0: 3546 keys, 665387 bytes
+2023/03/10-19:04:52.262 50ebf Compacted 4@0 + 1@1 files => 665387 bytes
+2023/03/10-19:04:52.263 50ebf compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/10-19:04:52.263 50ebf Delete type=2 #8326
+2023/03/10-19:04:52.263 50ebf Delete type=2 #8324
+2023/03/10-19:04:52.263 50ebf Delete type=2 #8322
+2023/03/10-19:04:52.263 50ebf Delete type=2 #8320
+2023/03/10-19:04:52.263 50ebf Delete type=2 #8329
+2023/03/10-19:06:52.225 50ebf Level-0 table #8332: started
+2023/03/10-19:06:52.235 50ebf Level-0 table #8332: 9824 bytes OK
+2023/03/10-19:06:52.236 50ebf Delete type=0 #8328

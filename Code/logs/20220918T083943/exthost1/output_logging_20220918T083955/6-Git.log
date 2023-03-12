@@ -1,0 +1,39 @@
+[2022-09-18T02:40:07.178Z] Log level: Info
+[2022-09-18T02:40:07.639Z] [info] Validating found git in: git
+[2022-09-18T02:40:18.466Z] [info] Using git 2.37.3 from git
+[2022-09-18T02:40:19.337Z] > git rev-parse --show-toplevel [861ms]
+[2022-09-18T02:40:19.337Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-18T02:40:19.345Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-18T02:40:19.357Z] > git rev-parse --git-dir --git-common-dir [7ms]
+[2022-09-18T02:40:19.362Z] [info] Open repository: /home/aboka/Projects/e-commerce-app
+[2022-09-18T02:40:19.938Z] > git ls-files --stage -- /home/aboka/Projects/e-commerce-app/client/src/components/SignInUp.jsx [163ms]
+[2022-09-18T02:40:20.367Z] > git check-ignore -v -z --stdin [457ms]
+[2022-09-18T02:40:20.470Z] > git show --textconv :client/src/components/SignInUp.jsx [699ms]
+[2022-09-18T02:40:20.558Z] > git cat-file -s 340ed62deb35ff449b4fc133319f881e66d1eaab [613ms]
+[2022-09-18T02:40:20.932Z] > git status -z -uall [1560ms]
+[2022-09-18T02:40:20.953Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-18T02:40:21.228Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [260ms]
+[2022-09-18T02:40:21.240Z] > git remote --verbose [1ms]
+[2022-09-18T02:40:21.684Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [450ms]
+[2022-09-18T02:40:22.067Z] > git config --local branch.development.github-pr-owner-number [369ms]
+[2022-09-18T02:40:22.067Z] > git config --get commit.template [375ms]
+[2022-09-18T02:40:22.094Z] > git status -z -uall [6ms]
+[2022-09-18T02:40:22.115Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-18T02:40:22.142Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [9ms]
+[2022-09-18T02:40:22.170Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2022-09-18T02:40:22.171Z] > git remote --verbose [3ms]
+[2022-09-18T02:40:22.188Z] > git config --get commit.template [2ms]
+[2022-09-18T02:40:22.200Z] > git status -z -uall [3ms]
+[2022-09-18T02:40:22.208Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-18T02:40:22.217Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/development refs/remotes/development [1ms]
+[2022-09-18T02:40:22.234Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-09-18T02:40:22.234Z] > git remote --verbose [2ms]
+[2022-09-18T02:40:22.245Z] > git config --get commit.template [1ms]
+[2022-09-18T02:40:24.722Z] > git fetch [5354ms]
+[2022-09-18T02:40:24.722Z] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/1Aboka1/e-commerce-app.git/'

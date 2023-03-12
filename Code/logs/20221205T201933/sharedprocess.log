@@ -1,0 +1,90 @@
+2022-12-05 20:19:35.678 [info] Starting worker process with pid 4836 (type: fileWatcher, window: 2).
+2022-12-05 20:19:35.680 [info] Starting worker process with pid 4837 (type: fileWatcher, window: 1).
+2022-12-05 20:19:35.961 [info] Deleted from disk vscode-icons-team.vscode-icons /home/aboka/.vscode/extensions/vscode-icons-team.vscode-icons-11.17.0
+2022-12-05 20:19:36.181 [info] Deleted from disk rust-lang.rust-analyzer /home/aboka/.vscode/extensions/rust-lang.rust-analyzer-0.3.1212-linux-x64
+2022-12-05 20:19:36.367 [info] Deleted from disk eg2.vscode-npm-script /home/aboka/.vscode/extensions/eg2.vscode-npm-script-0.3.28
+2022-12-05 20:19:36.609 [info] Deleted from disk ms-python.vscode-pylance /home/aboka/.vscode/extensions/ms-python.vscode-pylance-2022.9.30
+2022-12-05 20:19:40.605 [info] Getting Manifest... ahmadawais.shades-of-purple
+2022-12-05 20:19:40.607 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2022-12-05 20:19:40.607 [info] Getting Manifest... christian-kohler.npm-intellisense
+2022-12-05 20:19:40.607 [info] Getting Manifest... christian-kohler.path-intellisense
+2022-12-05 20:19:40.607 [info] Getting Manifest... eamodio.gitlens
+2022-12-05 20:19:40.608 [info] Getting Manifest... github.vscode-pull-request-github
+2022-12-05 20:19:40.609 [info] Getting Manifest... ms-azuretools.vscode-docker
+2022-12-05 20:19:40.611 [info] Getting Manifest... ms-python.python
+2022-12-05 20:19:40.611 [info] Getting Manifest... ms-python.vscode-pylance
+2022-12-05 20:19:40.612 [info] Getting Manifest... ms-toolsai.jupyter
+2022-12-05 20:19:40.612 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-12-05 20:19:40.612 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2022-12-05 20:19:40.613 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2022-12-05 20:19:40.614 [info] Getting Manifest... msjsdiag.vscode-react-native
+2022-12-05 20:19:40.614 [info] Getting Manifest... pkief.material-icon-theme
+2022-12-05 20:19:40.616 [info] Getting Manifest... rapidapi.vscode-rapidapi-client
+2022-12-05 20:19:40.616 [info] Getting Manifest... rust-lang.rust-analyzer
+2022-12-05 20:19:40.616 [info] Getting Manifest... tabnine.tabnine-vscode
+2022-12-05 20:19:40.616 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2022-12-05 20:19:41.280 [info] Installing extension: tabnine.tabnine-vscode
+2022-12-05 20:19:41.463 [info] Getting Manifest... ahmadawais.shades-of-purple
+2022-12-05 20:19:41.463 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2022-12-05 20:19:41.464 [info] Getting Manifest... christian-kohler.npm-intellisense
+2022-12-05 20:19:41.464 [info] Getting Manifest... christian-kohler.path-intellisense
+2022-12-05 20:19:41.465 [info] Getting Manifest... eamodio.gitlens
+2022-12-05 20:19:41.465 [info] Getting Manifest... github.vscode-pull-request-github
+2022-12-05 20:19:41.466 [info] Getting Manifest... ms-azuretools.vscode-docker
+2022-12-05 20:19:41.467 [info] Getting Manifest... ms-python.python
+2022-12-05 20:19:41.467 [info] Getting Manifest... ms-python.vscode-pylance
+2022-12-05 20:19:41.467 [info] Getting Manifest... ms-toolsai.jupyter
+2022-12-05 20:19:41.467 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-12-05 20:19:41.468 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2022-12-05 20:19:41.468 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2022-12-05 20:19:41.469 [info] Getting Manifest... msjsdiag.vscode-react-native
+2022-12-05 20:19:41.469 [info] Getting Manifest... pkief.material-icon-theme
+2022-12-05 20:19:41.469 [info] Getting Manifest... rapidapi.vscode-rapidapi-client
+2022-12-05 20:19:41.470 [info] Getting Manifest... rust-lang.rust-analyzer
+2022-12-05 20:19:41.470 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2022-12-05 20:19:41.539 [info] Installing extension: ms-azuretools.vscode-docker
+2022-12-05 20:19:41.540 [info] Extensions is already requested to install ms-azuretools.vscode-docker
+2022-12-05 20:19:41.616 [info] Installing extension: ms-toolsai.jupyter-renderers
+2022-12-05 20:19:41.625 [info] Installing extension: ms-python.vscode-pylance
+2022-12-05 20:19:41.648 [info] Installing extension: vscode-icons-team.vscode-icons
+2022-12-05 20:19:41.650 [info] Installing extension: ms-toolsai.jupyter
+2022-12-05 20:19:41.651 [info] Installing extension: ms-vscode-remote.remote-containers
+2022-12-05 20:19:41.691 [info] Installing extension: ms-python.python
+2022-12-05 20:19:41.692 [info] Installing extension: ms-vscode-remote.remote-wsl
+2022-12-05 20:19:41.698 [info] Installing extension: rapidapi.vscode-rapidapi-client
+2022-12-05 20:19:41.715 [info] Extensions is already requested to install ms-toolsai.jupyter-renderers
+2022-12-05 20:19:41.716 [info] Extensions is already requested to install ms-python.vscode-pylance
+2022-12-05 20:19:41.717 [info] Extensions is already requested to install vscode-icons-team.vscode-icons
+2022-12-05 20:19:41.762 [info] Installing extension: msjsdiag.vscode-react-native
+2022-12-05 20:19:41.763 [info] Installing extension: christian-kohler.npm-intellisense
+2022-12-05 20:19:41.764 [info] Installing extension: christian-kohler.path-intellisense
+2022-12-05 20:19:41.825 [info] Installing extension: pkief.material-icon-theme
+2022-12-05 20:19:41.826 [info] Installing extension: ahmadawais.shades-of-purple
+2022-12-05 20:19:41.827 [info] Installing extension: github.vscode-pull-request-github
+2022-12-05 20:19:41.855 [info] Installing extension: bradlc.vscode-tailwindcss
+2022-12-05 20:19:41.858 [info] Installing extension: eamodio.gitlens
+2022-12-05 20:19:42.083 [info] Extensions is already requested to install bradlc.vscode-tailwindcss
+2022-12-05 20:19:42.083 [info] Extensions is already requested to install pkief.material-icon-theme
+2022-12-05 20:19:42.084 [info] Extensions is already requested to install christian-kohler.path-intellisense
+2022-12-05 20:19:42.084 [info] Extensions is already requested to install christian-kohler.npm-intellisense
+2022-12-05 20:19:42.085 [info] Extensions is already requested to install msjsdiag.vscode-react-native
+2022-12-05 20:19:42.085 [info] Extensions is already requested to install ahmadawais.shades-of-purple
+2022-12-05 20:19:42.089 [info] Extensions is already requested to install eamodio.gitlens
+2022-12-05 20:19:42.155 [info] Extensions is already requested to install github.vscode-pull-request-github
+2022-12-05 20:19:42.156 [info] Extensions is already requested to install ms-vscode-remote.remote-containers
+2022-12-05 20:19:42.157 [info] Extensions is already requested to install ms-python.python
+2022-12-05 20:19:42.157 [info] Extensions is already requested to install rapidapi.vscode-rapidapi-client
+2022-12-05 20:19:42.158 [info] Extensions is already requested to install ms-toolsai.jupyter
+2022-12-05 20:19:42.159 [info] Extensions is already requested to install ms-vscode-remote.remote-wsl
+2022-12-05 20:19:42.655 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2022-12-05 20:19:42.895 [info] Getting Manifest... ms-python.python
+2022-12-05 20:19:42.987 [info] Getting Manifest... ms-python.isort
+2022-12-05 20:19:43.410 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2022-12-05 20:19:43.411 [info] Getting Manifest... ms-python.isort
+2022-12-05 20:19:43.527 [info] Getting Manifest... ms-vscode.js-debug
+2022-12-05 20:19:43.801 [info] Worker process with pid 4836 terminated normally (type: fileWatcher, window: 2).
+2022-12-05 20:19:44.084 [info] Installing extension: ms-python.isort ms-python.python
+2022-12-05 20:19:44.185 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2022-12-05 20:19:44.185 [info] Waiting for already requested installing extension ms-python.isort ms-python.vscode-pylance
+2022-12-05 20:19:44.287 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-toolsai.jupyter
+2022-12-05 20:19:44.287 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-toolsai.jupyter

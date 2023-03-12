@@ -1,0 +1,5 @@
+2022/11/29-11:46:09.983 3b65 Reusing MANIFEST /home/aboka/.config/Microsoft/Microsoft Teams/IndexedDB/https_euc-word-view.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/29-12:00:12.205 15bf Level-0 table #5: started
+2022/11/29-12:00:12.206 15bf Level-0 table #5: 874 bytes OK
+2022/11/29-12:00:12.207 15bf Delete type=0 #3
+2022/11/29-12:00:12.207 15bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

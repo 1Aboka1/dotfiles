@@ -1,0 +1,42 @@
+[Info] /home/aboka/.ssh/config: ENOENT: no such file or directory, open '/home/aboka/.ssh/config'
+[Info] Registering git provider
+[Info] Looking for git repository
+[Info] Found 1 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] Found GitHub remote
+[Info] Review> current branch development is associated with pull request #6
+[Info] Review> Resolving pull request
+[Info] GithubRepository> Unable to fetch PR: Error: Not authenticated.
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Review> This PR is no longer valid
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] Found GitHub remote
+[Info] Found GitHub remote
+[Info] Found GitHub remote
+[Info] Review> current branch development is associated with pull request #6
+[Info] Review> Resolving pull request
+[Info] Review> Queuing additional validate state
+[Info] Review> Fetching pull request data
+[Info] PullRequestTree> Adding PR #6 to tree
+[Info] Review> register comments provider
+[Info] Review> display pull request status bar indicator and refresh pull request tree view.
+[Info] Review> using focus mode = true.
+[Info] Review> state validation silent = true.
+[Info] Review> PR show should show = false.
+[Info] Review> Validating state...
+[Info] Found GitHub remote
+[Info] Trying to use globalState for mentionable users.
+[Info] Using globalState mentionable users for 1.
+[Info] Review> current branch development is associated with pull request #6
+[Info] Review> Resolving pull request
+[Info] Review> Fetching pull request data
+[Info] PullRequestTree> Adding PR #6 to tree
+[Info] PullRequestTree> PR #6 already exists in tree
+[Info] Review> register comments provider
+[Info] Review> display pull request status bar indicator and refresh pull request tree view.
+[Info] Review> using focus mode = true.
+[Info] Review> state validation silent = true.
+[Info] Review> PR show should show = false.

@@ -1,0 +1,6 @@
+node_modules
+.venv
+pgdata
+data
+.vscode
+.env.dev

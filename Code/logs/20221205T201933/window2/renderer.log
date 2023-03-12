@@ -1,0 +1,13 @@
+2022-12-05 20:19:35.189 [critical] Extension 'github.vscode-pull-request-github' wants API proposal 'badges' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.190 [critical] Extension 'github.vscode-pull-request-github' wants API proposal 'contribViewSize' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.191 [critical] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookWorkspaceEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.192 [critical] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookDebugOptions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.193 [critical] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2022-12-05 20:19:35.321 [info] [eamodio.gitlens]: Command `gitlens.copyAutolinkUrl` appears multiple times in the `commands` section.
+2022-12-05 20:19:35.326 [info] [ms-toolsai.jupyter]: Command `jupyter.selectNativeJupyterUriFromToolBar` appears multiple times in the `commands` section.
+2022-12-05 20:19:35.395 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2022-12-05 20:19:36.379 [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+2022-12-05 20:19:37.768 [info] [perf] Render performance baseline is 27ms
+2022-12-05 20:19:39.088 [info] [eamodio.gitlens]: Command `gitlens.copyAutolinkUrl` appears multiple times in the `commands` section.
+2022-12-05 20:19:39.090 [info] [ms-toolsai.jupyter]: Command `jupyter.selectNativeJupyterUriFromToolBar` appears multiple times in the `commands` section.
+2022-12-05 20:19:39.113 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue

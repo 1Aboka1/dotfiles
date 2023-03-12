@@ -1,0 +1,9 @@
+[2022-09-23 20:22:05.804] [sharedprocess] [info] Starting worker process with pid 7702 (type: fileWatcher, window: 1).
+[2022-09-23 20:22:09.715] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-23 20:22:10.454] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-09-23 20:22:11.540] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-09-23 20:22:15.584] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/aboka/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.9.30
+[2022-09-23 20:22:17.468] [sharedprocess] [info] Extracted extension to /home/aboka/.vscode/extensions/.20e220f2-102e-4baf-b1ff-3b11082da63b: ms-python.vscode-pylance
+[2022-09-23 20:22:17.805] [sharedprocess] [info] Renamed to /home/aboka/.vscode/extensions/ms-python.vscode-pylance-2022.9.30
+[2022-09-23 20:22:17.807] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-09-23 20:22:18.133] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

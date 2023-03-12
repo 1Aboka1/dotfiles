@@ -1,0 +1,9 @@
+2022-12-05 20:19:46.946 [warning] Ignoring the error while validating workspace folder file:///home/aboka/Projects/e-commerce-app - Error: ENOENT: no such file or directory, stat '/home/aboka/Projects/e-commerce-app'
+2022-12-05 20:19:46.948 [error] Error: File not found
+    at h.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2745:95931)
+    at async h.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2745:95171)
+    at async a.doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2743:6429)
+    at async a.doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2743:4791)
+    at async a.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2743:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2970:16742
+2022-12-05 20:19:47.065 [warning] Ignoring the error while validating workspace folder file:///home/aboka/Projects/rust/training - Error: ENOENT: no such file or directory, stat '/home/aboka/Projects/rust/training'

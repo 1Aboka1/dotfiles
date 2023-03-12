@@ -1,0 +1,15 @@
+[2022-09-21 17:54:12.478] [main] [info] update#setState idle
+[2022-09-21 17:54:30.028] [main] [info] Starting extension host with pid 2764 (fork() took 4 ms).
+[2022-09-21 17:54:41.431] [main] [info] Enabling inspect port on extension host with pid 2764.
+[2022-09-21 17:54:42.479] [main] [info] update#setState checking for updates
+[2022-09-21 17:54:42.611] [main] [info] update#setState idle
+[2022-09-21 18:54:42.578] [main] [info] update#setState checking for updates
+[2022-09-21 18:54:43.531] [main] [info] update#setState idle
+[2022-09-21 19:54:42.679] [main] [info] update#setState checking for updates
+[2022-09-21 19:54:43.277] [main] [info] update#setState idle
+[2022-09-21 20:54:42.778] [main] [info] update#setState checking for updates
+[2022-09-21 20:54:43.195] [main] [info] update#setState idle
+[2022-09-21 21:54:42.871] [main] [info] update#setState checking for updates
+[2022-09-21 21:54:43.548] [main] [info] update#setState idle
+[2022-09-21 22:03:38.797] [main] [info] Waiting for extension host with pid 2764 to exit.
+[2022-09-21 22:03:39.812] [main] [info] Extension host with pid 2764 exited with code: 0, signal: null.

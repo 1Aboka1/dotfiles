@@ -1,0 +1,30 @@
+[2022-10-04 21:56:17.159] [sharedprocess] [info] Starting worker process with pid 35291 (type: fileWatcher, window: 1).
+[2022-10-04 21:56:21.516] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/aboka/.vscode/extensions/ms-python.vscode-pylance-2022.9.20
+[2022-10-04 21:56:23.058] [sharedprocess] [info] Getting Manifest... eg2.vscode-npm-script
+[2022-10-04 21:56:23.059] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-10-04 21:56:23.059] [sharedprocess] [info] Getting Manifest... rust-lang.rust-analyzer
+[2022-10-04 21:56:23.059] [sharedprocess] [info] Getting Manifest... vscode-icons-team.vscode-icons
+[2022-10-04 21:56:23.975] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-10-04 21:56:24.090] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2022-10-04 21:56:24.318] [sharedprocess] [info] Installing extension: rust-lang.rust-analyzer
+[2022-10-04 21:56:24.403] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2022-10-04 21:56:26.067] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script /home/aboka/.config/Code/CachedExtensionVSIXs/eg2.vscode-npm-script-0.3.29
+[2022-10-04 21:56:26.101] [sharedprocess] [info] Extracted extension to /home/aboka/.vscode/extensions/.5a6b7f85-da6e-47f3-9cdc-2e892702a5a0: eg2.vscode-npm-script
+[2022-10-04 21:56:26.346] [sharedprocess] [info] Renamed to /home/aboka/.vscode/extensions/eg2.vscode-npm-script-0.3.29
+[2022-10-04 21:56:26.348] [sharedprocess] [info] Extracting completed. eg2.vscode-npm-script
+[2022-10-04 21:56:26.571] [sharedprocess] [info] Extension installed successfully: eg2.vscode-npm-script
+[2022-10-04 21:56:26.881] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /home/aboka/.config/Code/CachedExtensionVSIXs/vscode-icons-team.vscode-icons-11.19.0
+[2022-10-04 21:56:27.394] [sharedprocess] [info] Extracted extension to /home/aboka/.vscode/extensions/.822d1f49-e903-42d9-b571-a2f7e4632eef: vscode-icons-team.vscode-icons
+[2022-10-04 21:56:27.621] [sharedprocess] [info] Renamed to /home/aboka/.vscode/extensions/vscode-icons-team.vscode-icons-11.19.0
+[2022-10-04 21:56:27.623] [sharedprocess] [info] Extracting completed. vscode-icons-team.vscode-icons
+[2022-10-04 21:56:27.701] [sharedprocess] [info] Extension installed successfully: vscode-icons-team.vscode-icons
+[2022-10-04 21:56:29.011] [sharedprocess] [info] Downloaded extension: rust-lang.rust-analyzer /home/aboka/.config/Code/CachedExtensionVSIXs/rust-lang.rust-analyzer-0.3.1229-linux-x64
+[2022-10-04 21:56:29.253] [sharedprocess] [info] Extracted extension to /home/aboka/.vscode/extensions/.2cdf3440-e5ef-475e-8cf9-10ff8e325843: rust-lang.rust-analyzer
+[2022-10-04 21:56:29.364] [sharedprocess] [info] Renamed to /home/aboka/.vscode/extensions/rust-lang.rust-analyzer-0.3.1229-linux-x64
+[2022-10-04 21:56:29.368] [sharedprocess] [info] Extracting completed. rust-lang.rust-analyzer
+[2022-10-04 21:56:29.457] [sharedprocess] [info] Extension installed successfully: rust-lang.rust-analyzer
+[2022-10-04 21:56:30.712] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/aboka/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.9.40
+[2022-10-04 21:56:32.502] [sharedprocess] [info] Extracted extension to /home/aboka/.vscode/extensions/.3a75075a-ed33-47a2-9de7-1ca4fc695345: ms-python.vscode-pylance
+[2022-10-04 21:56:32.967] [sharedprocess] [info] Renamed to /home/aboka/.vscode/extensions/ms-python.vscode-pylance-2022.9.40
+[2022-10-04 21:56:32.969] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-10-04 21:56:33.170] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

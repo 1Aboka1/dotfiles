@@ -1,0 +1,15 @@
+2023/03/10-18:10:07.223 2512f Reusing MANIFEST /home/aboka/.config/Microsoft/Microsoft Teams/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/10-18:10:07.223 2512f Recovering log #61
+2023/03/10-18:10:07.223 2512f Reusing old log /home/aboka/.config/Microsoft/Microsoft Teams/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000061.log 
+2023/03/10-18:10:46.601 25fb5 Level-0 table #66: started
+2023/03/10-18:10:46.630 25fb5 Level-0 table #66: 393496 bytes OK
+2023/03/10-18:10:46.641 25fb5 Delete type=0 #61
+2023/03/10-18:10:46.642 25fb5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/10-18:10:46.642 25fb5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x11\x00\x00\xc8\x05\x00i\x00t\x00e\x00m\x00s' @ 28756 : 1
+2023/03/10-18:10:46.642 25fb5 Compacting 1@1 + 1@2 files
+2023/03/10-18:10:46.697 25fb5 Generated table #67@1: 2302 keys, 1497695 bytes
+2023/03/10-18:10:46.697 25fb5 Compacted 1@1 + 1@2 files => 1497695 bytes
+2023/03/10-18:10:46.698 25fb5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/10-18:10:46.698 25fb5 Delete type=2 #63
+2023/03/10-18:10:46.698 25fb5 Delete type=2 #66
+2023/03/10-18:10:46.698 25fb5 Manual compaction at level-1 from '\x00\x11\x00\x00\xc8\x05\x00i\x00t\x00e\x00m\x00s' @ 28756 : 1 .. (end); will stop at (end)

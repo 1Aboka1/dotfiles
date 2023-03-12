@@ -1,0 +1,15 @@
+2023/03/11-10:09:46.777 22f4 Reusing MANIFEST /home/aboka/.config/Microsoft/Microsoft Teams/IndexedDB/https_mailnisedu.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/11-10:09:46.777 22f4 Recovering log #140
+2023/03/11-10:09:46.780 22f4 Reusing old log /home/aboka/.config/Microsoft/Microsoft Teams/IndexedDB/https_mailnisedu.sharepoint.com_0.indexeddb.leveldb/000140.log 
+2023/03/11-11:11:00.550 26f4 Level-0 table #145: started
+2023/03/11-11:11:00.587 26f4 Level-0 table #145: 981813 bytes OK
+2023/03/11-11:11:00.589 26f4 Delete type=0 #140
+2023/03/11-11:11:00.590 26f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/11-11:11:00.590 26f4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x02\x1f\x01$\x00f\x00f\x00b\x002\x008\x004\x001\x007\x00-\x003\x00e\x008\x007\x00-\x004\x00b\x00e\x00c\x00-\x008\x001\x000\x005\x00-\x00c\x008\x00e\x009\x00e\x008\x004\x005\x000\x00f\x005\x00b\x00\x01$\x00f\x00f\x00b\x002\x008\x004\x001\x007\x00-\x003\x00e\x008\x007\x00-\x004\x00b\x00e\x00c\x00-\x008\x001\x000\x005\x00-\x00c\x008\x00e\x009\x00e\x008\x004\x005\x000\x00f\x005\x00b' @ 171509 : 1
+2023/03/11-11:11:00.590 26f4 Compacting 1@1 + 1@2 files
+2023/03/11-11:11:00.625 26f4 Generated table #146@1: 9005 keys, 951989 bytes
+2023/03/11-11:11:00.625 26f4 Compacted 1@1 + 1@2 files => 951989 bytes
+2023/03/11-11:11:00.626 26f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/11-11:11:00.626 26f4 Delete type=2 #145
+2023/03/11-11:11:00.626 26f4 Delete type=2 #142
+2023/03/11-11:11:00.627 26f4 Manual compaction at level-1 from '\x00\x03\x02\x1f\x01$\x00f\x00f\x00b\x002\x008\x004\x001\x007\x00-\x003\x00e\x008\x007\x00-\x004\x00b\x00e\x00c\x00-\x008\x001\x000\x005\x00-\x00c\x008\x00e\x009\x00e\x008\x004\x005\x000\x00f\x005\x00b\x00\x01$\x00f\x00f\x00b\x002\x008\x004\x001\x007\x00-\x003\x00e\x008\x007\x00-\x004\x00b\x00e\x00c\x00-\x008\x001\x000\x005\x00-\x00c\x008\x00e\x009\x00e\x008\x004\x005\x000\x00f\x005\x00b' @ 171509 : 1 .. (end); will stop at (end)

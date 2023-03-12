@@ -1,0 +1,7 @@
+[2022-09-17 09:13:40.944] [main] [info] update#setState idle
+[2022-09-17 09:13:50.300] [main] [info] Starting extension host with pid 2462 (fork() took 4 ms).
+[2022-09-17 09:13:59.060] [main] [info] Enabling inspect port on extension host with pid 2462.
+[2022-09-17 09:14:10.944] [main] [info] update#setState checking for updates
+[2022-09-17 09:14:11.085] [main] [info] update#setState idle
+[2022-09-17 09:32:27.672] [main] [info] Waiting for extension host with pid 2462 to exit.
+[2022-09-17 09:32:28.593] [main] [info] Extension host with pid 2462 exited with code: 0, signal: null.

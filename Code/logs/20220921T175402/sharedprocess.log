@@ -1,0 +1,9 @@
+[2022-09-21 17:54:35.956] [sharedprocess] [info] Starting worker process with pid 2856 (type: fileWatcher, window: 1).
+[2022-09-21 17:54:39.691] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-21 17:59:56.556] [sharedprocess] [info] Getting Manifest... rust-lang.rust-analyzer
+[2022-09-21 17:59:56.561] [sharedprocess] [info] Installing extension: rust-lang.rust-analyzer
+[2022-09-21 17:59:59.490] [sharedprocess] [info] Downloaded extension: rust-lang.rust-analyzer /home/aboka/.config/Code/CachedExtensionVSIXs/rust-lang.rust-analyzer-0.3.1212-linux-x64
+[2022-09-21 17:59:59.738] [sharedprocess] [info] Extracted extension to /home/aboka/.vscode/extensions/.c263957b-702d-44ea-ae6a-770f9b23b0c9: rust-lang.rust-analyzer
+[2022-09-21 17:59:59.774] [sharedprocess] [info] Renamed to /home/aboka/.vscode/extensions/rust-lang.rust-analyzer-0.3.1212-linux-x64
+[2022-09-21 17:59:59.775] [sharedprocess] [info] Extracting completed. rust-lang.rust-analyzer
+[2022-09-21 17:59:59.777] [sharedprocess] [info] Extension installed successfully: rust-lang.rust-analyzer

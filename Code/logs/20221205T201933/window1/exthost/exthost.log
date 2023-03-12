@@ -1,0 +1,252 @@
+2022-12-05 20:19:36.056 [info] Extension host with pid 4817 started
+2022-12-05 20:19:36.056 [info] Skipping acquiring lock for /home/aboka/.config/Code/User/workspaceStorage/4dc0ab52c46b54f543104e2afc52a7e4.
+2022-12-05 20:19:36.536 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-12-05 20:19:36.537 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-05 20:19:36.537 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2022-12-05 20:19:36.537 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2022-12-05 20:19:36.538 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2022-12-05 20:19:36.538 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: true, activationEvent: '*', root cause: GitHub.vscode-pull-request-github
+2022-12-05 20:19:36.538 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2022-12-05 20:19:36.538 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2022-12-05 20:19:36.538 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: true, activationEvent: '*'
+2022-12-05 20:19:37.072 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-05 20:19:37.072 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-05 20:19:37.072 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+2022-12-05 20:19:37.266 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-05 20:19:37.266 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-05 20:19:37.266 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-05 20:19:38.506 [error] Error: ENOENT: no such file or directory, scandir '/home/aboka/Projects/e-commerce-app'
+2022-12-05 20:19:44.370 [info] Extension host terminating: received terminate message from renderer
+2022-12-05 20:19:44.400 [info] Eager extensions activated
+2022-12-05 20:19:44.400 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2022-12-05 20:19:44.400 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.400 [error] Activating extension vscode.emmet failed due to an error:
+2022-12-05 20:19:44.400 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.400 [error] Activating extension vscode.merge-conflict failed due to an error:
+2022-12-05 20:19:44.400 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.401 [error] Activating extension bradlc.vscode-tailwindcss failed due to an error:
+2022-12-05 20:19:44.401 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.401 [error] Activating extension dbaeumer.vscode-eslint failed due to an error:
+2022-12-05 20:19:44.401 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.401 [error] Activating extension dsznajder.es7-react-js-snippets failed due to an error:
+2022-12-05 20:19:44.401 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.401 [error] Activating extension eamodio.gitlens failed due to an error:
+2022-12-05 20:19:44.401 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.401 [error] Activating extension ms-vscode-remote.remote-containers failed due to an error:
+2022-12-05 20:19:44.401 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.402 [error] Activating extension ms-vscode-remote.remote-wsl failed due to an error:
+2022-12-05 20:19:44.402 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.402 [error] Activating extension PKief.material-icon-theme failed due to an error:
+2022-12-05 20:19:44.402 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.402 [error] Activating extension RapidAPI.vscode-rapidapi-client failed due to an error:
+2022-12-05 20:19:44.402 [error] Canceled: Canceled
+    at new D (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:90923)
+    at l._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13737)
+    at Proxy.x.<computed>.L.charCodeAt.x.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:10292)
+    at h._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13844)
+    at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:9870)
+    at w._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8321)
+    at w._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:8257)
+    at w._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7621)
+    at new w (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7511)
+    at _createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7045)
+    at _handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:6956)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5397
+    at Array.map (<anonymous>)
+    at _activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5385)
+    at _.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:5261)
+    at h._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11926)
+    at h._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:17915)
+    at h._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18296)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:18794
+2022-12-05 20:19:44.915 [info] Extension host with pid 4817 exiting with code 0

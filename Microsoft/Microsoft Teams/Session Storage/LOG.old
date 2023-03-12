@@ -1,0 +1,9 @@
+2023/03/10-18:10:00.435 25132 Reusing MANIFEST /home/aboka/.config/Microsoft/Microsoft Teams/Session Storage/MANIFEST-000001
+2023/03/10-18:10:00.435 25132 Recovering log #129
+2023/03/10-18:10:00.435 25132 Reusing old log /home/aboka/.config/Microsoft/Microsoft Teams/Session Storage/000129.log 
+2023/03/10-18:44:17.486 25724 Level-0 table #133: started
+2023/03/10-18:44:17.488 25724 Level-0 table #133: 68469 bytes OK
+2023/03/10-18:44:17.488 25724 Delete type=0 #129
+2023/03/10-18:53:47.439 25724 Level-0 table #135: started
+2023/03/10-18:53:47.448 25724 Level-0 table #135: 34327 bytes OK
+2023/03/10-18:53:47.449 25724 Delete type=0 #132

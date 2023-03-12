@@ -1,0 +1,26 @@
+[2022-09-17 18:31:46.031] [renderer1] [critical] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-09-17 18:31:48.090] [renderer1] [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+[2022-09-17 18:31:59.710] [renderer1] [error] [Extension Host] /bin/sh: line 1: hostname: command not found
+[2022-09-17 18:32:08.728] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-09-17 18:32:13.786] [renderer1] [warning] UNRESPONSIVE extension host: 'dsznajder.es7-react-js-snippets' took 68% of 5100.255ms, saved PROFILE here: 'file:///tmp/exthost-c17fb9.cpuprofile' [{"id":"dsznajder.es7-react-js-snippets","total":3457182,"percentage":68},{"id":"eamodio.gitlens","total":14063,"percentage":0},{"id":"gc","total":23508,"percentage":0},{"id":"ms-vscode-remote.remote-containers","total":10481,"percentage":0},{"id":"ms-vscode-remote.remote-wsl","total":166997,"percentage":3},{"id":"PKief.material-icon-theme","total":4759,"percentage":0},{"id":"self","total":1423182,"percentage":28}]
+[2022-09-17 18:32:15.523] [renderer1] [error] [Extension Host] Error: Binary request timed out. {"Features":{}}
+    at Timeout._onTimeout (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:33073)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2022-09-17 18:32:15.523] [renderer1] [error] [Extension Host] Error: Could not get enabled capabilities
+    at Object.t.getCapabilities (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:45079)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processTimers (node:internal/timers:499:9)
+    at l (/home/aboka/.vscode/extensions/tabnine.tabnine-vscode-3.6.15/out/extension.js:17:51517)
+[2022-09-17 19:32:17.676] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-09-17 20:02:17.636] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-09-17 20:32:17.638] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-09-17 21:02:17.637] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-09-17 21:32:17.676] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-09-17 22:02:17.672] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
